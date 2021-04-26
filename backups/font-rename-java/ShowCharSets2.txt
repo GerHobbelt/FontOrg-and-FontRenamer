@@ -1,0 +1,831 @@
+
+Available Java Character Set Encodings
+Version 1.5.0_15 from Sun Microsystems Inc.
+Windows 2000 (5.0) x86
+Monday, 15 December 2008
+
+Note: Correct name for the West European Latin or "Windows ANSI"
+code page is "windows-1252".  See:
+
+   http://en.wikipedia.org/wiki/Windows-1252
+   http://en.wikipedia.org/wiki/Code_page
+
+----------------------------------------------------------------
+
+canonical charset name <Big5>
+   alias <csBig5>
+canonical charset name <Big5-HKSCS>
+   alias <big5-hkscs>
+   alias <big5hk>
+   alias <big5-hkscs:unicode3.0>
+   alias <big5hkscs>
+   alias <Big5_HKSCS>
+canonical charset name <EUC-JP>
+   alias <eucjis>
+   alias <x-eucjp>
+   alias <csEUCPkdFmtjapanese>
+   alias <eucjp>
+   alias <Extended_UNIX_Code_Packed_Format_for_Japanese>
+   alias <x-euc-jp>
+   alias <euc_jp>
+canonical charset name <EUC-KR>
+   alias <ksc5601>
+   alias <5601>
+   alias <ksc5601_1987>
+   alias <ksc_5601>
+   alias <ksc5601-1987>
+   alias <euc_kr>
+   alias <ks_c_5601-1987>
+   alias <euckr>
+   alias <csEUCKR>
+canonical charset name <GB18030>
+   alias <gb18030-2000>
+canonical charset name <GB2312>
+   alias <gb2312-1980>
+   alias <gb2312>
+   alias <EUC_CN>
+   alias <gb2312-80>
+   alias <euc-cn>
+   alias <euccn>
+   alias <x-EUC-CN>
+canonical charset name <GBK>
+   alias <windows-936>
+   alias <CP936>
+canonical charset name <IBM-Thai>
+   alias <ibm-838>
+   alias <ibm838>
+   alias <838>
+   alias <cp838>
+canonical charset name <IBM00858>
+   alias <cp858>
+   alias <ccsid00858>
+   alias <cp00858>
+   alias <858>
+canonical charset name <IBM01140>
+   alias <1140>
+   alias <ccsid01140>
+   alias <cp01140>
+   alias <cp1140>
+canonical charset name <IBM01141>
+   alias <cp01141>
+   alias <cp1141>
+   alias <ccsid01141>
+   alias <1141>
+canonical charset name <IBM01142>
+   alias <cp01142>
+   alias <cp1142>
+   alias <ccsid01142>
+   alias <1142>
+canonical charset name <IBM01143>
+   alias <1143>
+   alias <cp01143>
+   alias <cp1143>
+   alias <ccsid01143>
+canonical charset name <IBM01144>
+   alias <cp01144>
+   alias <cp1144>
+   alias <1144>
+   alias <ccsid01144>
+canonical charset name <IBM01145>
+   alias <ccsid01145>
+   alias <cp01145>
+   alias <1145>
+   alias <cp1145>
+canonical charset name <IBM01146>
+   alias <ccsid01146>
+   alias <cp1146>
+   alias <1146>
+   alias <cp01146>
+canonical charset name <IBM01147>
+   alias <cp1147>
+   alias <1147>
+   alias <ccsid01147>
+   alias <cp01147>
+canonical charset name <IBM01148>
+   alias <cp01148>
+   alias <cp1148>
+   alias <ccsid01148>
+   alias <1148>
+canonical charset name <IBM01149>
+   alias <cp1149>
+   alias <ccsid01149>
+   alias <1149>
+   alias <cp01149>
+canonical charset name <IBM037>
+   alias <csIBM037>
+   alias <cpibm37>
+   alias <cp037>
+   alias <cs-ebcdic-cp-us>
+   alias <ibm-037>
+   alias <ibm-37>
+   alias <cs-ebcdic-cp-ca>
+   alias <cs-ebcdic-cp-wt>
+   alias <cs-ebcdic-cp-nl>
+   alias <ibm037>
+   alias <037>
+canonical charset name <IBM1026>
+   alias <1026>
+   alias <ibm1026>
+   alias <cp1026>
+   alias <ibm-1026>
+canonical charset name <IBM1047>
+   alias <1047>
+   alias <ibm-1047>
+   alias <cp1047>
+canonical charset name <IBM273>
+   alias <ibm273>
+   alias <273>
+   alias <cp273>
+   alias <ibm-273>
+canonical charset name <IBM277>
+   alias <ibm277>
+   alias <cp277>
+   alias <ibm-277>
+   alias <277>
+canonical charset name <IBM278>
+   alias <csIBM278>
+   alias <ibm278>
+   alias <cp278>
+   alias <ebcdic-cp-se>
+   alias <278>
+   alias <ibm-278>
+   alias <ebcdic-sv>
+canonical charset name <IBM280>
+   alias <ibm280>
+   alias <cp280>
+   alias <280>
+   alias <ibm-280>
+canonical charset name <IBM284>
+   alias <cpibm284>
+   alias <csIBM284>
+   alias <ibm-284>
+   alias <ibm284>
+   alias <284>
+   alias <cp284>
+canonical charset name <IBM285>
+   alias <285>
+   alias <ebcdic-cp-gb>
+   alias <ibm-285>
+   alias <csIBM285>
+   alias <cp285>
+   alias <ibm285>
+   alias <cpibm285>
+   alias <ebcdic-gb>
+canonical charset name <IBM297>
+   alias <csIBM297>
+   alias <ebcdic-cp-fr>
+   alias <cp297>
+   alias <ibm297>
+   alias <ibm-297>
+   alias <297>
+   alias <cpibm297>
+canonical charset name <IBM420>
+   alias <ibm420>
+   alias <420>
+   alias <ebcdic-cp-ar1>
+   alias <csIBM420>
+   alias <ibm-420>
+   alias <cp420>
+canonical charset name <IBM424>
+   alias <cp424>
+   alias <424>
+   alias <ebcdic-cp-he>
+   alias <ibm424>
+   alias <csIBM424>
+   alias <ibm-424>
+canonical charset name <IBM437>
+   alias <windows-437>
+   alias <cspc8codepage437>
+   alias <ibm437>
+   alias <cp437>
+   alias <437>
+   alias <ibm-437>
+canonical charset name <IBM500>
+   alias <500>
+   alias <ebcdic-cp-ch>
+   alias <ebcdic-cp-bh>
+   alias <ibm-500>
+   alias <csIBM500>
+   alias <cp500>
+   alias <ibm500>
+canonical charset name <IBM775>
+   alias <ibm775>
+   alias <cp775>
+   alias <ibm-775>
+   alias <775>
+canonical charset name <IBM850>
+   alias <ibm-850>
+   alias <850>
+   alias <ibm850>
+   alias <cspc850multilingual>
+   alias <cp850>
+canonical charset name <IBM852>
+   alias <852>
+   alias <ibm-852>
+   alias <csPCp852>
+   alias <cp852>
+   alias <ibm852>
+canonical charset name <IBM855>
+   alias <855>
+   alias <ibm855>
+   alias <cp855>
+   alias <cspcp855>
+   alias <ibm-855>
+canonical charset name <IBM857>
+   alias <cp857>
+   alias <ibm857>
+   alias <csIBM857>
+   alias <857>
+   alias <ibm-857>
+canonical charset name <IBM860>
+   alias <ibm860>
+   alias <ibm-860>
+   alias <csIBM860>
+   alias <cp860>
+   alias <860>
+canonical charset name <IBM861>
+   alias <csIBM861>
+   alias <ibm861>
+   alias <861>
+   alias <cp861>
+   alias <ibm-861>
+canonical charset name <IBM862>
+   alias <cp862>
+   alias <ibm862>
+   alias <862>
+   alias <ibm-862>
+   alias <csIBM862>
+canonical charset name <IBM863>
+   alias <cp863>
+   alias <csIBM863>
+   alias <ibm863>
+   alias <863>
+   alias <ibm-863>
+canonical charset name <IBM864>
+   alias <csIBM864>
+   alias <ibm-864>
+   alias <864>
+   alias <ibm864>
+   alias <cp864>
+canonical charset name <IBM865>
+   alias <ibm-865>
+   alias <csIBM865>
+   alias <865>
+   alias <ibm865>
+   alias <cp865>
+canonical charset name <IBM866>
+   alias <866>
+   alias <ibm-866>
+   alias <csIBM866>
+   alias <ibm866>
+   alias <cp866>
+canonical charset name <IBM868>
+   alias <cp-ar>
+   alias <868>
+   alias <ibm868>
+   alias <csIBM868>
+   alias <ibm-868>
+   alias <cp868>
+canonical charset name <IBM869>
+   alias <ibm869>
+   alias <ibm-869>
+   alias <869>
+   alias <cp869>
+   alias <csIBM869>
+   alias <cp-gr>
+canonical charset name <IBM870>
+   alias <ebcdic-cp-yu>
+   alias <ibm870>
+   alias <ibm-870>
+   alias <870>
+   alias <csIBM870>
+   alias <cp870>
+   alias <ebcdic-cp-roece>
+canonical charset name <IBM871>
+   alias <csIBM871>
+   alias <ibm-871>
+   alias <cp871>
+   alias <ebcdic-cp-is>
+   alias <871>
+   alias <ibm871>
+canonical charset name <IBM918>
+   alias <ibm-918>
+   alias <918>
+   alias <cp918>
+   alias <ebcdic-cp-ar2>
+canonical charset name <ISO-2022-CN>
+   alias <csISO2022CN>
+   alias <ISO2022CN>
+canonical charset name <ISO-2022-JP>
+   alias <jis>
+   alias <jis_encoding>
+   alias <csjisencoding>
+   alias <csISO2022JP>
+   alias <iso2022jp>
+canonical charset name <ISO-2022-KR>
+   alias <ISO2022KR>
+   alias <csISO2022KR>
+canonical charset name <ISO-8859-1>
+   alias <iso-ir-100>
+   alias <8859_1>
+   alias <ISO_8859-1>
+   alias <ISO8859_1>
+   alias <819>
+   alias <csISOLatin1>
+   alias <IBM-819>
+   alias <ISO_8859-1:1987>
+   alias <latin1>
+   alias <cp819>
+   alias <ISO8859-1>
+   alias <IBM819>
+   alias <ISO_8859_1>
+   alias <l1>
+canonical charset name <ISO-8859-13>
+   alias <ISO8859-13>
+   alias <8859_13>
+   alias <iso8859_13>
+   alias <iso_8859-13>
+canonical charset name <ISO-8859-15>
+   alias <8859_15>
+   alias <csISOlatin9>
+   alias <IBM923>
+   alias <cp923>
+   alias <923>
+   alias <L9>
+   alias <IBM-923>
+   alias <ISO8859-15>
+   alias <LATIN9>
+   alias <ISO_8859-15>
+   alias <LATIN0>
+   alias <csISOlatin0>
+   alias <ISO8859_15_FDIS>
+   alias <ISO-8859-15>
+   alias <ISO8859_15>
+canonical charset name <ISO-8859-2>
+   alias <ibm912>
+   alias <l2>
+   alias <ibm-912>
+   alias <cp912>
+   alias <ISO_8859-2:1987>
+   alias <ISO_8859-2>
+   alias <latin2>
+   alias <csISOLatin2>
+   alias <iso8859_2>
+   alias <912>
+   alias <8859_2>
+   alias <ISO8859-2>
+   alias <iso-ir-101>
+canonical charset name <ISO-8859-3>
+   alias <iso8859_3>
+   alias <cp913>
+   alias <csISOLatin3>
+   alias <ibm-913>
+   alias <ISO_8859-3>
+   alias <913>
+   alias <ISO8859-3>
+   alias <8859_3>
+   alias <ibm913>
+   alias <iso-ir-109>
+   alias <ISO_8859-3:1988>
+   alias <latin3>
+   alias <l3>
+canonical charset name <ISO-8859-4>
+   alias <iso-ir-110>
+   alias <l4>
+   alias <8859_4>
+   alias <ibm914>
+   alias <latin4>
+   alias <ibm-914>
+   alias <csISOLatin4>
+   alias <iso8859_4>
+   alias <iso8859-4>
+   alias <cp914>
+   alias <914>
+   alias <ISO_8859-4:1988>
+   alias <ISO_8859-4>
+canonical charset name <ISO-8859-5>
+   alias <915>
+   alias <ISO_8859-5:1988>
+   alias <iso8859_5>
+   alias <cp915>
+   alias <ibm915>
+   alias <ISO_8859-5>
+   alias <ISO8859-5>
+   alias <csISOLatinCyrillic>
+   alias <cyrillic>
+   alias <8859_5>
+   alias <iso-ir-144>
+   alias <ibm-915>
+canonical charset name <ISO-8859-6>
+   alias <8859_6>
+   alias <arabic>
+   alias <ibm-1089>
+   alias <iso8859_6>
+   alias <ISO_8859-6>
+   alias <iso-ir-127>
+   alias <ibm1089>
+   alias <ISO_8859-6:1987>
+   alias <ECMA-114>
+   alias <1089>
+   alias <csISOLatinArabic>
+   alias <ISO8859-6>
+   alias <ASMO-708>
+   alias <cp1089>
+canonical charset name <ISO-8859-7>
+   alias <sun_eu_greek>
+   alias <8859_7>
+   alias <iso-ir-126>
+   alias <ISO_8859-7:1987>
+   alias <ibm-813>
+   alias <iso8859_7>
+   alias <ISO_8859-7>
+   alias <csISOLatinGreek>
+   alias <greek8>
+   alias <ECMA-118>
+   alias <ibm813>
+   alias <ELOT_928>
+   alias <iso8859-7>
+   alias <cp813>
+   alias <greek>
+   alias <813>
+canonical charset name <ISO-8859-8>
+   alias <iso-ir-138>
+   alias <ibm-916>
+   alias <iso8859_8>
+   alias <cp916>
+   alias <ISO8859-8>
+   alias <ISO_8859-8:1988>
+   alias <hebrew>
+   alias <8859_8>
+   alias <csISOLatinHebrew>
+   alias <ibm916>
+   alias <916>
+   alias <ISO_8859-8>
+canonical charset name <ISO-8859-9>
+   alias <cp920>
+   alias <l5>
+   alias <ISO_8859-9>
+   alias <ibm-920>
+   alias <csISOLatin5>
+   alias <8859_9>
+   alias <iso-ir-148>
+   alias <latin5>
+   alias <920>
+   alias <ISO8859-9>
+   alias <ibm920>
+   alias <ISO_8859-9:1989>
+   alias <iso8859_9>
+canonical charset name <JIS_X0201>
+   alias <JIS_X0201>
+   alias <X0201>
+   alias <JIS0201>
+   alias <csHalfWidthKatakana>
+canonical charset name <JIS_X0212-1990>
+   alias <jis_x0212-1990>
+   alias <iso-ir-159>
+   alias <x0212>
+   alias <JIS0212>
+   alias <csISO159JISX02121990>
+canonical charset name <KOI8-R>
+   alias <koi8>
+   alias <koi8_r>
+   alias <cskoi8r>
+canonical charset name <Shift_JIS>
+   alias <shift-jis>
+   alias <shift_jis>
+   alias <x-sjis>
+   alias <ms_kanji>
+   alias <csShiftJIS>
+   alias <sjis>
+canonical charset name <TIS-620>
+   alias <tis620.2533>
+   alias <tis620>
+canonical charset name <US-ASCII>
+   alias <ISO646-US>
+   alias <IBM367>
+   alias <ASCII>
+   alias <cp367>
+   alias <default>
+   alias <ascii7>
+   alias <ANSI_X3.4-1986>
+   alias <iso-ir-6>
+   alias <us>
+   alias <646>
+   alias <iso_646.irv:1983>
+   alias <csASCII>
+   alias <ANSI_X3.4-1968>
+   alias <ISO_646.irv:1991>
+canonical charset name <UTF-16>
+   alias <utf16>
+   alias <UTF_16>
+canonical charset name <UTF-16BE>
+   alias <X-UTF-16BE>
+   alias <UnicodeBigUnmarked>
+   alias <UTF_16BE>
+   alias <ISO-10646-UCS-2>
+canonical charset name <UTF-16LE>
+   alias <UnicodeLittleUnmarked>
+   alias <X-UTF-16LE>
+   alias <UTF_16LE>
+canonical charset name <UTF-8>
+   alias <UTF8>
+   alias <unicode-1-1-utf-8>
+canonical charset name <windows-1250>
+   alias <cp1250>
+   alias <cp5346>
+canonical charset name <windows-1251>
+   alias <ansi-1251>
+   alias <cp1251>
+   alias <cp5347>
+canonical charset name <windows-1252>
+   alias <cp1252>
+   alias <cp5348>
+canonical charset name <windows-1253>
+   alias <cp1253>
+   alias <cp5349>
+canonical charset name <windows-1254>
+   alias <cp5350>
+   alias <cp1254>
+canonical charset name <windows-1255>
+   alias <cp1255>
+canonical charset name <windows-1256>
+   alias <cp1256>
+canonical charset name <windows-1257>
+   alias <cp1257>
+   alias <cp5353>
+canonical charset name <windows-1258>
+   alias <cp1258>
+canonical charset name <windows-31j>
+   alias <csWindows31J>
+   alias <windows-932>
+   alias <MS932>
+canonical charset name <x-Big5-Solaris>
+   alias <Big5_Solaris>
+canonical charset name <x-euc-jp-linux>
+   alias <euc_jp_linux>
+   alias <euc-jp-linux>
+canonical charset name <x-EUC-TW>
+   alias <cns11643>
+   alias <euc_tw>
+   alias <EUC-TW>
+   alias <euctw>
+canonical charset name <x-eucJP-Open>
+   alias <EUC_JP_Solaris>
+   alias <eucJP-open>
+canonical charset name <x-IBM1006>
+   alias <cp1006>
+   alias <ibm1006>
+   alias <1006>
+   alias <ibm-1006>
+canonical charset name <x-IBM1025>
+   alias <ibm1025>
+   alias <1025>
+   alias <cp1025>
+   alias <ibm-1025>
+canonical charset name <x-IBM1046>
+   alias <ibm1046>
+   alias <1046>
+   alias <cp1046>
+   alias <ibm-1046>
+canonical charset name <x-IBM1097>
+   alias <ibm1097>
+   alias <1097>
+   alias <cp1097>
+   alias <ibm-1097>
+canonical charset name <x-IBM1098>
+   alias <cp1098>
+   alias <ibm-1098>
+   alias <ibm1098>
+   alias <1098>
+canonical charset name <x-IBM1112>
+   alias <cp1112>
+   alias <1112>
+   alias <ibm1112>
+   alias <ibm-1112>
+canonical charset name <x-IBM1122>
+   alias <ibm-1122>
+   alias <1122>
+   alias <cp1122>
+   alias <ibm1122>
+canonical charset name <x-IBM1123>
+   alias <cp1123>
+   alias <ibm1123>
+   alias <ibm-1123>
+   alias <1123>
+canonical charset name <x-IBM1124>
+   alias <cp1124>
+   alias <ibm1124>
+   alias <ibm-1124>
+   alias <1124>
+canonical charset name <x-IBM1381>
+   alias <1381>
+   alias <cp1381>
+   alias <ibm1381>
+   alias <ibm-1381>
+canonical charset name <x-IBM1383>
+   alias <ibm1383>
+   alias <ibm-1383>
+   alias <cp1383>
+   alias <1383>
+canonical charset name <x-IBM33722>
+   alias <ibm-33722>
+   alias <cp33722>
+   alias <ibm-33722_vascii_vpua>
+   alias <ibm-5050>
+   alias <ibm33722>
+   alias <33722>
+canonical charset name <x-IBM737>
+   alias <ibm-737>
+   alias <ibm737>
+   alias <cp737>
+   alias <737>
+canonical charset name <x-IBM834>
+   alias <cp834>
+   alias <ibm-834>
+   alias <ibm834>
+canonical charset name <x-IBM856>
+   alias <ibm-856>
+   alias <856>
+   alias <ibm856>
+   alias <cp856>
+canonical charset name <x-IBM874>
+   alias <cp874>
+   alias <ibm874>
+   alias <ibm-874>
+   alias <874>
+canonical charset name <x-IBM875>
+   alias <ibm875>
+   alias <ibm-875>
+   alias <875>
+   alias <cp875>
+canonical charset name <x-IBM921>
+   alias <921>
+   alias <cp921>
+   alias <ibm921>
+   alias <ibm-921>
+canonical charset name <x-IBM922>
+   alias <cp922>
+   alias <ibm922>
+   alias <ibm-922>
+   alias <922>
+canonical charset name <x-IBM930>
+   alias <cp930>
+   alias <930>
+   alias <ibm930>
+   alias <ibm-930>
+canonical charset name <x-IBM933>
+   alias <ibm933>
+   alias <cp933>
+   alias <933>
+   alias <ibm-933>
+canonical charset name <x-IBM935>
+   alias <935>
+   alias <cp935>
+   alias <ibm935>
+   alias <ibm-935>
+canonical charset name <x-IBM937>
+   alias <cp937>
+   alias <ibm-937>
+   alias <ibm937>
+   alias <937>
+canonical charset name <x-IBM939>
+   alias <ibm-939>
+   alias <ibm939>
+   alias <cp939>
+   alias <939>
+canonical charset name <x-IBM942>
+   alias <cp942>
+   alias <ibm942>
+   alias <ibm-942>
+   alias <942>
+canonical charset name <x-IBM942C>
+   alias <ibm942C>
+   alias <cp942C>
+   alias <ibm-942C>
+   alias <942C>
+canonical charset name <x-IBM943>
+   alias <ibm943>
+   alias <ibm-943>
+   alias <cp943>
+   alias <943>
+canonical charset name <x-IBM943C>
+   alias <ibm-943C>
+   alias <ibm943C>
+   alias <943C>
+   alias <cp943C>
+canonical charset name <x-IBM948>
+   alias <948>
+   alias <ibm-948>
+   alias <cp948>
+   alias <ibm948>
+canonical charset name <x-IBM949>
+   alias <ibm-949>
+   alias <cp949>
+   alias <949>
+   alias <ibm949>
+canonical charset name <x-IBM949C>
+   alias <cp949C>
+   alias <949C>
+   alias <ibm949C>
+   alias <ibm-949C>
+canonical charset name <x-IBM950>
+   alias <950>
+   alias <cp950>
+   alias <ibm-950>
+   alias <ibm950>
+canonical charset name <x-IBM964>
+   alias <964>
+   alias <cp964>
+   alias <ibm-964>
+   alias <ibm964>
+canonical charset name <x-IBM970>
+   alias <ibm970>
+   alias <970>
+   alias <cp970>
+   alias <ibm-eucKR>
+   alias <ibm-970>
+canonical charset name <x-ISCII91>
+   alias <iscii>
+   alias <ST_SEV_358-88>
+   alias <iso-ir-153>
+   alias <csISO153GOST1976874>
+   alias <ISCII91>
+canonical charset name <x-ISO-2022-CN-CNS>
+   alias <ISO2022CN_CNS>
+   alias <ISO-2022-CN-CNS>
+canonical charset name <x-ISO-2022-CN-GB>
+   alias <ISO-2022-CN-GB>
+   alias <ISO2022CN_GB>
+canonical charset name <x-iso-8859-11>
+   alias <iso-8859-11>
+   alias <iso8859_11>
+canonical charset name <x-JIS0208>
+   alias <JIS0208>
+   alias <csISO87JISX0208>
+   alias <x0208>
+   alias <JIS_C6226-1983>
+   alias <JIS_X0208-1983>
+   alias <iso-ir-87>
+canonical charset name <x-JISAutoDetect>
+   alias <JISAutoDetect>
+canonical charset name <x-Johab>
+   alias <johab>
+   alias <ms1361>
+   alias <ksc5601-1992>
+   alias <ksc5601_1992>
+canonical charset name <x-MacArabic>
+   alias <MacArabic>
+canonical charset name <x-MacCentralEurope>
+   alias <MacCentralEurope>
+canonical charset name <x-MacCroatian>
+   alias <MacCroatian>
+canonical charset name <x-MacCyrillic>
+   alias <MacCyrillic>
+canonical charset name <x-MacDingbat>
+   alias <MacDingbat>
+canonical charset name <x-MacGreek>
+   alias <MacGreek>
+canonical charset name <x-MacHebrew>
+   alias <MacHebrew>
+canonical charset name <x-MacIceland>
+   alias <MacIceland>
+canonical charset name <x-MacRoman>
+   alias <MacRoman>
+canonical charset name <x-MacRomania>
+   alias <MacRomania>
+canonical charset name <x-MacSymbol>
+   alias <MacSymbol>
+canonical charset name <x-MacThai>
+   alias <MacThai>
+canonical charset name <x-MacTurkish>
+   alias <MacTurkish>
+canonical charset name <x-MacUkraine>
+   alias <MacUkraine>
+canonical charset name <x-MS950-HKSCS>
+   alias <MS950_HKSCS>
+canonical charset name <x-mswin-936>
+   alias <ms936>
+   alias <ms_936>
+canonical charset name <x-PCK>
+   alias <pck>
+canonical charset name <x-windows-50220>
+   alias <cp50220>
+   alias <ms50220>
+canonical charset name <x-windows-50221>
+   alias <ms50221>
+   alias <cp50221>
+canonical charset name <x-windows-874>
+   alias <windows-874>
+   alias <ms874>
+   alias <ms-874>
+canonical charset name <x-windows-949>
+   alias <windows949>
+   alias <ms_949>
+   alias <ms949>
+canonical charset name <x-windows-950>
+   alias <windows-950>
+   alias <ms950>
+canonical charset name <x-windows-iso2022jp>
+   alias <windows-iso2022jp>
+
+----------------------------------------------------------------

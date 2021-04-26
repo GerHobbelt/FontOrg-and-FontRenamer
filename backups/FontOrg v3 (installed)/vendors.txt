@@ -1,0 +1,620 @@
+# Copyright Notice:  Al Jones 2005 - 2015
+# License: This file in its original form may be distributed freely.
+# of this file may not be distributed or published by any means.
+# This file may be modified for personal use only; any modified version
+# of this file may not be distributed or published by any means.
+#
+# The structure of the file is:
+# Field 1: the Vendor ID 
+# Field 2: the Company / Foundry using the ID
+# Field 3: the Designer using the ID
+#
+# I'd like to remind you all that FontOrg is a shareware program.
+# It takes a considerable amount of time to update it and its associated files.
+# If you find yourself using it on a regular basis I'd appreciate you tipping
+# something into my PayPal Account.  The link to it can be found at FontOrg.us
+# Thanks //al
+#
+ .0 	Cosmonaut Fonts
+!!!!	Financial Peril Publishing & Design	Allen Zuk
+!22!	22 Software
+!ETF 	!Exclamachine Type Foundry
+#1ASC 	Ascender Corporation
+#ALTS 	Altsys / Made with Fontographer
+#BITS 	Bitstream
+#MACR 	Macromedia / Made with Fontographer
+#PTF 	Porchez Typofonderie	also Process Type Foundry
+#SWAP	Hebrew Fonts
+#UKWN	_Unknown	_Unknown
+$pro 	CheapProFonts
+021	JW Type	Johan W
+13th	13th Degree	Zane Townsend
+1BOU 	Boutros International
+2DLT 	2D Typo
+2REB 	2 Rebels
+2TTF	2TTF Gallery
+39BC 	Finley's Barcode Fonts
+3ip 	Three Islands Press
+4FEB 	4th february
+5PTS 	Five Points Technology
+918 	RavenType
+A&S 	Art & Sign Studio
+A2 	A2-Type
+A2HK	A2-Type	Henrik Kubel
+A60	AlphaType	Joseph Miceli
+aaff 	AstroAcademia Font Foundry
+ABBO 	Arabic Dictionary Lab
+ABC 	Altek Instruments
+abcd		Carolina Trebol
+ABOU 	Aboutype
+ACG	Agfa
+ACUT 	Acute Type
+ADBE	Adobe
+ADFP	Arkandis Digital Foundry	Harendal Hirwen
+ADG 	Apply Design Group
+ADSK	Autodesk
+AEF 	Altered Ego Fonts
+AERO	Aerotype
+aff		Christoph Dunst
+AGFA 	Monotype Imaging
+agt	AGT
+AID 	Artistic Imposter Design
+AJPT	Alan Jay Prescott Typography
+akaT	AKA Type
+AKOF 	AKOFAType
+ALFA 	Alphabets
+ALPH 	Alphameric Broadcast Solutions Limited
+ALPN 	Alpona Portal
+ALS 	Art Lebedev Studio
+alte 	Altemus
+AMT	Monotype Imaging
+AMUT 		Kwesi Amuti
+ANDI	Andinistas	Carlos Fabian Camargo
+ANDO 		Osam Ando
+anty 	Anatoletype
+AOE	Astigmatic One Eye	Brian J Bonislawsky
+AOEF	Astigmatic One Eye	Brian J Bonislawsky
+AOP 	an Art Of Pengwyn
+APLY 	Apply Interactive
+APOS 	Apostrophic Laboratories
+#APPL 	Apple
+ARBX 	Arabetics
+ARCH 	Architext
+ARIN 	Aring Typeface AB
+ARPH 	Arphic Technology Co.
+ARS 	EN ARS Ltd.
+ArsC	Arsenal
+ARST	ARS Type	Angus R Shamal
+ArTy 	Archive Type
+ASFT	ingoFont
+ASL 	Abneil Software Ltd fonts
+ASSA 	astype	Andreas Seidel
+ASTF	Alphabet Soup Type	Michael Doret
+ASYM 	Applied Symbols
+ATEC 	Page Technology Marketing
+ATF 	American Type Founders Collection
+ATF1 	Australian Type Foundry
+ATFS 	Andrew Tyler's fonts
+ATRA	atrax
+AURE 	Aure Font Design
+AUTO 	Autodidakt
+AVFF 	Agustín Varela Font Factory
+AVP 	Aviation Partners
+ayff	a la naga
+AZLS 	Azalea Software
+B&H 	Bigelow & Holmes
+BARS 	CIA (BAR CODES) UK
+BASE 	Baseline Font Foundry
+BAT 	BUREAU DES AFFAIRES TYPOGRAPHIQUES
+BC	VNBC	Benoit Champy
+BCP 	Barcode Products Ltd
+BDTD	Buro Destruct
+BERG	NuevoDeco Typography	David Bergsland
+BERT 	Berthold
+BITM 	Bitmap Software
+bizf 	Bizfonts.com
+BKM	BoKoMa CM Fonts
+BLAB 	BaseLab
+BLAH 	Mister Bla's Fontworx
+BLI 	Blissym Language Institute
+BLL		Billy Argel
+BLV 	Bladvulling
+BMON	Bold Monday
+BOLD 	Bold Monday
+BORW 	em2 Solutions
+BOYB 	BoyBeaver Fonts
+BPGI	BPG InfoTech
+BRDV 	BoardVantage Inc	
+BREM 	Mark Bremmer
+BROS 	Michael Brosnan
+BRTC 	ITSCO - Bar Code Fonts
+BS 	Barcodesoft
+BSPK	Village Type & Design
+BUBU 	BUBULogix
+BWFW 	BW Fontworks
+C&B 	Coppers & Brasses
+C&C 	Carter & Cone
+C21 	Club 21
+CAK 	pluginfonts.com
+CANO 	Canon
+CANT	Canada Type
+CASL 	H.W. Caslon & Company Ltd.
+CB 		Christian Buning
+CBDO 	Borges Lettering & Design
+CDAC 	Centre for Development of Advanced Computing
+cdd 	Crazy Diamond Design
+CDFP 	VT2000 Technical Services
+CELB 	Celebrity Fontz
+CF 	Colophon Foundry
+CFA 	Computer Fonts Australia
+CFF 	Characters Font Foundry	Character
+CHAR	Characters Font Foundry	Character
+CHR	Characters Font Foundry	Character
+CIRT	Circulo de Tipografos
+CJCJ 	Creative Juncture
+CKTP 	CakeType
+CLM 	Culmus Project
+CLTM	Cultivated Mind
+CMJK 	Slanted Hall
+CNBO		Chan-Nguyen
+COMM 	Commercial Type
+CONR 	Connare.com
+COOL 	Cool Fonts
+CORD 	corduroy
+corr		Manuel Eduardo Corradine
+CPC	CybaPee Creations	Petra Heidorn
+CR8 	CR8 Software Solutions
+CRRT 	Carrot Type
+CT 	CastleType
+CTDL 	China Type Designs Ltd.
+CTL 	Chaitanya Type Library
+cwwf 	Computers World Wide/AC Capital Funding
+CYPE 	Club Type
+DADA 	Dada Studio
+DAMA 	Dalton Maag Limited
+DB 		Daniel Bruce
+DBFF 	DesignBase
+DD 	Devon DeLapp
+Deco 	DecoType
+DELV 	Delve Fonts
+dezc 	Dezcom
+DFS 	Datascan Font Service Ltd
+DGL 	Digital Graphic Labs foundry
+DOM 	Dukom Design
+DP	Dick Pape	Dick Pape
+DRDN	Darden Studio
+DS 	Dainippon Screen Mfg. Co.
+DSBV 	Datascan bv
+DSCI 	Design Science
+DSGN 	DizajnDesign
+DSKY 		Jacek Dziubinski
+DSSR 	Dresser Johnson
+DSST 		Dubina Nikolay
+DST 	DSType
+DT 	DecoType
+DTC 	Digital Typeface Corp.
+DTF 	Dunwich Type Founders
+DTL 	Dutch Type Library
+DTPS 	DTP-Software
+dtpT 	dtpTypes Limited
+DUXB 	Duxbury Systems
+DYNA 	DynaComware
+ECAL 	ECAL Typefaces
+EDBI 	edilbiStudio
+EDGE 	Rivers Edge Corp.
+EF 	Elsner + Flake
+EFF 	Electronic Font Foundry
+EFI 	Elfring Fonts
+EFNT 	E Fonts L.L.C.
+EFWS 	eFilm World
+EKIO 	Ekioh
+ELSE 	Elseware
+EMGR 	Emigre
+EMT		Eduardo Manso
+EPSN 	Epson
+ESIG 	E-Signature
+ETIO 	Ethiopian Font Foundry
+EVER 	Evertype
+F25	F25 Digital Typeface	Volker Busse
+FA 	FontArte Type Foundry
+FAT 	Fatype
+FBI 	The Font Bureau
+FBRC	Font Fabric
+FCAB 	The Font Cabinet
+FCAN 	fontage canada
+FCTP 	Facetype
+FDI 	FDI fonts.info
+FeoN 	Feorag NicBhrìde
+FGOD 	FontGod
+FJTY 		Frank Jonen
+FLAT	Flat It Type Foundry
+FMFO 	Fontmill Foundry
+FMFO 	Studio Liddell Graphic Design
+FMST 	Formist
+FNTF 	Fontfoundry
+FoFa 	FontFabrik
+FONT 	Font Source
+FOO	_FOO
+FORM 	Formation Type Foundry
+FOUN 	The Foundry
+FRML 	formlos
+FRTH 	Forthcome
+FS 	Formula Solutions
+FSE 	Font Source Europe
+FSI 	FontShop International
+FSL 	FontSurfer Ltd
+fsmi 	Font Smith
+FTFT 	Font Font
+FTGD 	Font Garden
+FTH 	For the Hearts
+FTN 	Fountain
+FTPT 	Fontpartners
+FWKS 	Fontworks
+FWRE 	Fontware Limited
+FY 	Fontyou
+GAF 	Glifo Art Fonts Inc.
+GALA 	Galapagos Design Group
+GALO 		Gerald Gallo
+GARI 		Gary Ritchie
+GATF 	Greater Albion Typefounders
+GD 	GD Fonts
+GEM	GeM Fonts	Graham Meade
+GF 	Garage Fonts
+GIA 	Georgian Internet Avenue
+GLCF 	GLC foundry
+GLYF 	Glyph Systems
+GM	GeM Fonts	Graham Meade
+GM+	GeM Fonts	Graham Meade
+GNU 	Free Software Foundation
+GOAT 	Dingbat Dungeon
+GOGO 	Fonts-A-Go-Go
+GOHE 	GoHebrew
+GOOG 	Google
+GPI 	Gamma Productions
+GRAF 	Grafikarna d.o.o.
+GREY 	Greyletter
+GRIL 	Grilled cheese
+GRIM 	Legacy publishing
+grro 	grafikk Roren
+GT 	Graphity!
+GTYP 	G-Type
+H 	Hurme Design
+H&FJ 	Hoefler & Frere-Jones
+HA 	HoboArt
+HAD 	Hoffmann Angelic Design
+HAIL 	Hail Design
+hano	Hanoded Fonts	David Kerkhoff
+HanS 	HanStyle
+HAUS 	TypeHaus
+HCI	Human Computers
+HEB 		Sivan Toledo
+HFJ 	Hoefler & Frere-Jones
+HIH 	HiH Retrofonts
+HILL 	Hill Systems
+HJZ 		Hans J Zinken
+HL 	High-Logic
+HM 	Haiku Monkey
+HMK	Hallmark Design Studio
+HoP 	House of Pretty
+HOUS 	House Industries
+HP 	Hewlett-Packard
+HS 	HermesSOFT Company
+HT 	Huerta Tipográfica
+HTF 	The Hoefler Type Foundry
+HXTP 	Hexatype
+HY 	HanYang Information & Communication
+IBM 	IBM
+IDAU 	IDAutomation.com
+IDEE 	IDEE TYPOGRAFICA
+IDF 	International Digital Fonts
+IFF 	Indian Font Factory
+IKOF 	IKOffice GmbH
+ILP 	Indigenous Languages Project
+IMPR 	Impress
+INGT 	Ingrimayne Type
+INRA 	INRAY
+INTR 	Interstitial Entertainment
+INVC 	Invoice Central
+INVD 	TYPE INVADERS
+IPA	Information Promotion Agency
+ISE 	ISE-Aditi Info. Pvt . Ltd.
+ITC 	ITC
+ITF 	Red Rooster Collection
+ITFO 	Indian Type Foundry
+JABM 	JAB'M Foundry
+JAF 	Just Another Foundry
+JAKE 	Jake Tilson Studio
+JBLT 	JEAN-BAPTISTE LEVÉE TYPOGRAPHY
+JDB		Jeff Bensch
+JF 		Jan Fromm
+JFS	Jester Font Studio	
+JHA 	Jan Henrik Arnold
+JHF 	JH Fonts
+JPTT 	Jeremy Tankard Typography	Jeremy Tankard
+JRD	Splash	Jeremy Dooley
+JWTM 	Type Matters
+JY 	JIYUKOBO Ltd.
+K22	K22 Type	Toto
+KATF 	Kingsley
+KBNT 	Kombinat-Typefounders
+KDW 	Kataoka Design Works
+KEVN	AsiaSoft Inc	
+KF 	Karakta Fonthome
+KGRP	Pixel Plant
+KLIM 	Klim Typographic Design
+KLTF 	Karsten Luecke
+KNST 	Konst.ru
+KOP 	Leo Koppelkamm
+KORK 	Khork OÜ
+KOVL 	Koval Type Foundry
+KrKo 	Kreative Software
+KRND 	Karandash Type & Graphics Foundry
+KTF 	Kustomtype
+KUBA 	Kuba Tatarkiewicz
+LAIT 	la laiterie
+LANS 	Lanston Type Company
+LARA 	Larabie Fonts
+LAUD 	Carolina Laudon
+LAYT 	LAYOUT SARL
+LDO		Luke D Owens
+LEAF 	Interleaf
+LETR 	Letraset
+LFS 	Letters from Sweden
+LGX 	Logix Research Institute
+LHF 	Letterhead Fonts
+LIND 	Lindenberg Software LLC
+LING 	Linguist's Software
+LINO 	Linotype
+LIVE 	Livedesign
+LNGU 	LangusteFonts
+LNTO 	Lineto
+LORO 	LoRo Productions
+LP 	LetterPerfect Fonts
+LT 	Le Typophage
+LTF 	Liberty Type Foundry
+Ltrm 	Lettermin type and design
+LTRX 	Lighttracks
+LTTR 	LettError
+LUD 	Ludlow
+LuFo 	Lucas Fonts
+LUSH 	Lush Type
+LUV 	iLUVfonts
+MADT 	MADType
+#MANS	Mans Greback
+MANS 	Aring Typeface AB
+MAPS 	Tom Mouat's Map Symbol Fonts
+MATS 	Match Fonts
+MC 	Cerajewski Computer Consulting
+MCKL 	MCKL
+MCOW 	Mountaincow
+MDSN 	Moraitis Design
+MEH 		Steve Mehallo
+MEIR 		Meir Sadan
+MESA 	FontMesa,
+MF 	Magic Fonts
+MFNT 	Masterfont
+MG 	Milieu Grotesque
+MILL 	Millan
+MJ 	Majus Corporation
+MJR 	Majur
+MJT	Majestype	Dexsar Harry Anugrah
+MK		Manfred Klein
+MLBU 	Malibu Dream Designs
+MLGC 	Micrologic Software
+mlss 	Mark Simonson Studio
+MMFT 		Michel M
+MMIK 	Monomonnik
+MNCK 	Mine Creek
+MODI 	Modular Infotech Private Limited.
+MOHT 	Al Mohtaraf Assaudi Ltd
+MOJI 	Mojijuku
+MONB 	Monib
+MONE 	Meta One Limited
+MONO 	Monotype Imaging
+MOON 	Moonlight Type and Technolog
+MOTA 	Mota Italic
+MRSW 	Morisawa & Company
+MRV 	Morovia Corporation
+#MS 	Microsoft Corp.
+MSCH 	Guitar-Injection
+MSCR 	Majus Corporation
+MSE 	MSE-iT
+MT 	Monotype Imaging
+MTF 	Miss Tiina Fonts
+MTY 	Motoya Co
+MUTF 	Murasu Systems Sdn. Bhd
+MVB 	MVB Fonts
+MVTP 	Mauve Type
+MVty 	MV Typo
+MYFO 	MyFonts.com
+MZK		Moinzek
+N9	Number Nine
+NB 	No Bodoni Typography
+ncnd 	&cond
+NDCT 	Neufville Digital
+NDTC 	Neufville Digital
+NEC 	NEC Corporation
+NEWL 	Newlyn
+NICK 	Nick's Fonts	Nick Curtis
+NIS 	NIS Corporation
+NORF 	Norfok Incredible Font Design
+NOVA 	NOVATYPE
+NP 	Nipponia
+NSW	NSW
+ODSR 	Oddsorts
+OHG 	Our House Graphic Design
+OKAY 	Okay Type Foundry
+OPTM 	Optimo
+OPTO 	Opto
+ORBI 	Orbit Enterprises
+ORK1 	Ork1
+OSFC 	Out Of Step Font Company
+OURT 	Ourtype
+P22 	P22 Type Foundry
+PARA 	ParaType
+PBTS	Pink Broccoli Types	Phil Bracco
+PD 	Pangea design
+PDWX 	Parsons Design Workx
+PECI 	Pecita
+PF 	Phil's Fonts
+PIXL 	Pixilate
+PKDD 	Philip Kelly Digital Design
+PLAT 	PLATINUM technology
+PLMF		Perry Mason
+prch	Parachute Graphics
+PRFS 	Production First Software
+PRGR 	Paragraph
+PROD 	Production Type
+PRTF 	Process Type Foundry
+PSIS 	PhotoShopIsland.com
+PSY 	PSY/OPS
+PT 	Playtype APS
+PTF 	Porchez Typofonderie
+PTMI 	Page Technology Marketing
+PTYP 	preussTYPE
+#PYRS 	PYRS Fontlab Ltd. / Made with FontLab
+QMSI 	QMS Imagen
+QRAT 	Quadrat Communications
+READ 	ReadyType
+REAL 	Underware
+RES 	Resultat
+RJPS 	Reall Graphics
+RKFN 	R K Fonts
+RL 		Ruben Holthuijsen
+RLTF 	Rebeletter Studios
+RMU 	RMU TypeDesign
+robo 	Buro Destruct	Petr van Blokland
+RP		R A Pavlov
+RRT 	Red Rooster Collection
+RSJ 	RSJ Software
+RST 	Rosetta
+RUDY 	RudynFluffy
+RYOB 	Ryobi Limited
+SAND 	Sandoll
+SAPL 	Fonderie sans plomb
+SATY 	Samuelstype Design
+SAX 	sax Software
+SbB 	Sketchbook B
+SBT 	SelfBuild Type Foundry
+SCTO 	Schick Toikka
+Sean 	The FontSite
+SFF	Scrappin Fun Fonts
+SFS 	Sarumadhu Services Pvt. Ltd.
+sft		Jeffrey N Levine
+sfty		Jeffrey N Levine
+SFUN 	Software Union
+SG 	Scooter Graphics
+SHAM 	ShamFonts / Shamrock Int.
+SHFT 	Shift
+SHOT 	Shotype
+SHUB 	The Software Hub
+SIG 	vLetter, Inc
+SIL 	SIL International
+SIT 	Summit Information Technologies Pvt.Ltd,
+SKP 	Essqué Productions
+skz 	Celtic Lady's Fonts
+SL 	Silesian Letters
+smak	SoftMaker Software
+SN 	SourceNet
+SOHO 	Soft Horizons
+SOS 	Standing Ovations Software
+SSCF	Summitsoft Corp
+STC 	Sorkin Type Co
+STCH	Studio Charlie
+STF 	Sooy Type Foundry	Brian Sooy
+STIX	STI Pub Companies
+Stor 	Storm Type Foundry
+STYP 	Stone Type Foundry
+SUDT	Sudtipos
+SUNW 	sunwalk fontworks
+SvAm	ScanVec Co
+SVTD 	Synthview
+SWAP	_SWAP	
+SWFT 	Swfte International
+SWTY 	Swiss Typefaces
+SXRA 	Page42 Type Foundry
+SYDA 	Shree Muktananda Ashram
+SYN 	SynFonts
+SYRC 	Syriac Computing Institute
+TAKE	_TAKE
+TBFF 	TrueBlue Font Foundry
+TC 	Typeco
+TCH 		Darryl Cook
+TD 	Typedepot
+TDR 	Tansin A Darcos & Co
+TERM 	Terminal Design
+TF 	Treacyfaces
+TF3D 	TattooFont3D
+TFND 	Typefounding
+THIN 	Thinstroke Design LLC
+TILD 	Tilde, SIA
+TIMO 		Tim Romano
+TIMR 		Tim Rolands
+TIPO 	Tipo
+TIRO 	Tiro Typeworks
+TJS 	Typejockeys
+TLIN 	Teeline Fonts
+TMF 	The MicroFoundry
+TMT 	TypeMyType Comm. V.
+TNTY 	tntypography
+TOPP 	Toppan Printing Co., Ltd.
+TPDP 	Type Department
+TPGR	Tipografies	Jordi Embodas
+TPMA 	typoma
+TPSP 	Type Supply
+TPTC 	Test Pilot Collective
+TPTQ 	Typotheque
+TR 	Type Revivals
+TRAF 	Traffictype
+TREE 	Treeflow
+TS 	TamilSoft Corporation
+TS25	_TypeSmith Amiga
+TSPC 	Typespec Ltd
+TSTY 		Torleiv Georg Sverdrup
+TT 	TypeTogether
+TTG 	Twardoch Typography
+TTT	Positype	Neil Summerour
+TTY 	Tipotype
+TYCU 	TypeCulture
+TYFR 	typographies.fr
+TYME 	type me! Font Foundry
+TYPA 	Typadelic
+TYPE 	Type Associates
+TYPO 	Typodermic
+TYPR 	Type Project
+TYRE 	typerepublic
+UA 	UnAuthorized Type
+UNDT 	UNDT
+URW 	URW
+UT 	Unitype Inc
+VINT 	Vinterstille
+VKP 		Vijay K Patel
+VLKF 	Visualogik Technology & Design
+VLLG	Village Type & Design
+VLNL 	VetteLetters.nl
+VMT 	VMType
+VNBC	VNBC	
+VOG 		Martin Vogel
+VROM 		Vladimir Romanov
+VS 	VorSicht GmbH
+VT 	VISUALTYPE SRL
+VTF 	Velvetyne Type Foundry
+WAFO	Walden Font
+WASP 	Wasp Barcode Technologies
+WILL 	Willerstorfer Font Foundry
+Wins	WinSoft International
+WL 	Writ Large Fonts
+WM 	Webmakers India
+XFC 	Xerox Font Services
+XOTH 		Xoth Morello
+Y&Y 	Y & Y
+YDS 	Yellow Design Studio
+YN 	Yanone
+YOFF 	Your Own Font Foundry
+YOKO 		Yokokaku
+YOUR 	YourFonts
+ZANE 	Unrender
+ZeGr 	Zebra Font Factory
+zeta 	Tangram Studio
+ZKA1		Pavel Pavlov
+ZSFT 	Zsoft
