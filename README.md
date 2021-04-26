@@ -1,11 +1,14 @@
 # FontOrg and FontRenamer
 
-copy of **FontOrg** (Al Jones) and **FontRenamer** (Philip M. Engel) font tools as posted in yonder days on NNTP alt.binaries.fonts
+copy of **FontOrg** (Al Jones) and **FontRenamer** (Philip M. Engel) font tools as posted in yonder days on NNTP *alt.binaries.fonts*.
+
+---
 
 ![image](https://user-images.githubusercontent.com/402462/116137857-656f4280-a6d4-11eb-8b09-4f30ec037868.png)
 ![image](https://user-images.githubusercontent.com/402462/116137975-8a63b580-a6d4-11eb-84db-8a9704826894.png)
 ![image](https://user-images.githubusercontent.com/402462/116138001-93ed1d80-a6d4-11eb-8d27-2d9e315396a1.png)
 
+---
 
 ## What is this?
 
@@ -30,5 +33,12 @@ FontRenamer v2 seems slightly more finicky r4e stability on Windows 10/64, even 
 
 - the Designer and other text files provided with this instance of FontOrg is my (*probably patched*) copy from 2015 AD.
 - Older versions are stored in the `backups` directory. Try them and see which works if the latest if giving you trouble.
+- At times Al would post updates for the Designer.txt and other text files, which serve as driving databases for FontOrg and can be edited in any decent text eeditor, ee.g. [Notepad++](https://notepad-plus-plus.org/) or [Sublime](https://www.sublimetext.com/)
+- Nothing of note has been posted since 2014/2015 (I haven't watched *very* closely 🕵️😥); the stuff in this repo came off old drives and I've been looking for this a couple of years ago and today once again: nothing useful or trustworthy pops up on the Net. So here's what I got in cold storage. 😄 The tools are still relevant with the free fonts out there nowadays that are nice but also quite disorganized - at least to my tastes.
+- Enjoy. Please *do* apply patience as the tools are old and may need a bit of assistance to get going on your box. Once they do, they'll be pretty fast as they have not changed but your hardware certainly *will have changed*. 😆🐎
+- 
+
+
+
 
 
