@@ -1,0 +1,100 @@
+Path: not-for-mail
+NNTP-Posting-Date: Fri, 17 Sep 2010 23:35:58 -0500
+From: redear <redear@nowhere.com.invalid>
+Newsgroups: alt.binaries.fonts
+Update RedEar's Font Renamer - FontRenamer302.zip (0/1)
+Date: Fri, 17 Sep 2010 23:35:59 -0500
+Message-ID: <b8g896lrhpau497fu1mh0r9u1hbaq872fu@4ax.com>
+X-Newsreader: Forte Agent 4.2/32.1117
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Lines: 78
+X-Usenet-Provider: http://www.giganews.com
+X-Trace: sv3-1wfZln6oi7Ot1UCn3qpjCazdGZUrapfoxMWeLloWJPhNarpObaenvTK/DObEnBOaN104ERS28nhn8Ez!qamYBZRzOwjqc17RLtX/PlQscEBeAponOfRpdU+zJSqdQmeAK99P/9nNIvn2jBdyRyrq6Rg=
+X-Complaints-To: abuse@giganews.com
+X-DMCA-Notifications: http://www.giganews.com/info/dmca.html
+X-Abuse-and-DMCA-Info: Please be sure to forward a copy of ALL headers
+X-Abuse-and-DMCA-Info: Otherwise we will be unable to process your complaint properly
+X-Postfilter: 1.3.40
+Bytes: 4463
+Xref: highwinds alt.binaries.fonts:328669
+
+Existing Users:
+
+In order to minimize confusion with other products having the generic
+name "FontRenamer", with this release I am formally changing the
+product name of my renamer to "RedEar's Font Renamer". This rebranding
+does not affect the name of the executable or other files, so you will
+not need to change references in shortcuts or batch files. But the
+full name will appear in the title bar of the program's window, the
+About dialog, and other places. And as you may have noticed, I will
+refer to it using the full name in messages.
+
+This release also contains a few minor fixes and enhancements, Since I
+regularly use the program myself, I occasionally notice a feature that
+needs fixing or can be improved. This quarter I made the following
+changes:
+
+- Adjusted tab stops in Font Name Info panel to change as display font
+size changes
+
+- Fixed failure to save splitter positions when program closed while
+maximized
+
+- Enhanced and corrected information in Font Name Info panel for files
+that cannot be identified and/or renamed
+
+- Updated the Troubleshooting section in the Help file to deal with
+the problem of special folders like My Documents not displaying in the
+folder tree
+
+All users are urged to upgrade to this version and to review the
+Version History in the help file for a list of all changes. As always,
+please post suggestions and bug reports to alt.binaries.fonts.
+
+Thanks to al jones for making RedEar's Font Renamer available from his
+Web site, http://fontorg.us/.
+
+
+New Users:
+
+Please read the "Getting Started" sections in the help file before
+using the program!
+
+RedEar's Font Renamer is a utility program that consistently and
+automatically changes a font's external file name to match the font's
+internal  name. Thus, for example, when looking at a renamed file in
+Windows Explorer, you will see "Chaparral MM.pfb" rather than
+"xtr_____.pfb",  a much more comprehensible name. In other words, you
+get a meaningful file name, not a cryptic file name (which in most
+cases was created  under the outdated 8.3 file naming conventions).
+
+Because of individual whims or variations in the ways older automated
+renamers handle characters that are invalid in a file name, many fonts
+in the public domain are circulating with different names. A font
+renamer allows you to bring consistency to your font collection and in
+the process identify possible duplicates. (Note that there do exist
+many font files that have the same internal name but are in fact
+different fonts with different glyphs. Often, however, files with the
+same internal name are in fact the same font.)
+
+Font Renamer robustly renames all types of font files and related
+files. It has extensive options to control the specific internal name
+that is used for renaming, to handle invalid characters, and to fine
+tune the renaming process. However, the default settings are
+recommended for most users.
+
+Font Renamer optionally checks that a font can actually be installed
+by your operating system and can flag fonts that cannot.
+
+Font Renamer does not change the contents of font files nor does it
+fix bad fonts.
+
+Note that you must have Microsoft .NET Framework 2.0 (the necessary
+run-time files) installed. (See the "Before You Begin" section in the
+help file for information on obtaining the Framework if you have not
+yet installed it.)
+
+
+redear

@@ -1,0 +1,23 @@
+GABRIELE MAGURNO'S FONTS - [ www.magurno.com ]
+---------------------------------------------------------
+
+Content:
+
+1. Steinerlight.ttf (MS Windows/MAC OSX-compatible typeface).
+2. Instructions.txt (this file).
+3. License.txt (end user license, read carefully!)
+4. Gabriele Magurno website.url (internet shortcut to my website).
+
+
+Instructions:
+
+Copy "Steinerlight.ttf" inside your "\Fonts\" folder, then reboot your computer if needed. The font will appear inside the list when you will open your favorite graphic program.
+
+--------------------------------------------------------------------
+
+NOTE#1: This font is licensed as Freeware. Intellectual rights and property remains to the legit owner and author, Gabriele Magurno. If you plan to redistribute this font on magazines, CD-ROMs or websites, you must leave the package intact with the same files you've found on the original, available at my site. You may NOT ask/earn money with this font directly (e.g. by selling it) but you're free to use it for commercial projects (logos, flyers, posters, etc...) A credit or a link back to my site (www.magurno.com) aren't required, but they are always appreciated.
+
+Note#2: This typeface is ideal for logos and general design.
+It isn't very suitable to be used with word-processors as it lacks some symbols and letters.
+
+NOTE#3: Thanks to all the people around the world supporting my work! :-)

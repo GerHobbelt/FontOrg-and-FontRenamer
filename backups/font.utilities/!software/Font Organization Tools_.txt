@@ -1,0 +1,37 @@
+Path: news.tweak-news.eu!spooler.pl1!82.197.223.108.MISMATCH!feeder.cambriumusenet.nl!feed.tweaknews.nl!path-stripped
+From: Myrmidon <Imnot@home.com>
+Newsgroups: comp.fonts
+Font Organization Tools?
+Date: Wed, 12 Aug 2015 08:55:13 -0400
+Organization: Myrmidon Enterprises
+Lines: 17
+Message-ID: <MPG.30350c3d8fec318e989c1f@news.eternal-september.org>
+Mime-Version: 1.0
+Content-Type: text/plain; charset="iso-8859-15"
+Content-Transfer-Encoding: 7bit
+Injection-Info: mx02.eternal-september.org; posting-host="4c9f96d01d005f1bf5521fc3a1f1f765";
+	logging-data="25076"; mail-complaints-to="abuse@eternal-september.org";	posting-account="U2FsdGVkX19g01gTzBx2STPe4tzTwi7Xrv/L+TQmjNk="
+User-Agent: MicroPlanet-Gravity/2.60.2060
+X-Antivirus-Status: Clean
+X-Antivirus: avast! (VPS 150812-1, 08/12/2015), Outbound message
+Cancel-Lock: sha1:iZrA2OFaIbYSHBdocZDwO33qm60=
+X-Received-Body-CRC: 853735325
+X-Received-Bytes: 1442
+
+Anyone have recommendations on Font Organization tools?
+
+I'm still using my ancient copy of Typograph, but I'm afraid I'll have 
+to upgrade my OS (Win XP now) and who knows if Typograph will still 
+function correctly.
+
+   Myrmidon
+
+-- 
+Non nobis solum nati sumus
+
+"We are not born for ourselves alone."
+
+---
+This email has been checked for viruses by Avast antivirus software.
+https://www.avast.com/antivirus
+

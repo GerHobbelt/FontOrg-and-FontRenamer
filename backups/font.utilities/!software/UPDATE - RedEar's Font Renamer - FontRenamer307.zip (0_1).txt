@@ -1,0 +1,96 @@
+Path: not-for-mail
+NNTP-Posting-Date: Mon, 09 Feb 2015 18:28:13 -0600
+From: redear <redear@nowhere.com.invalid>
+Newsgroups: alt.binaries.fonts
+UPDATE - RedEar's Font Renamer - FontRenamer307.zip (0/1)
+Date: Mon, 09 Feb 2015 18:28:11 -0600
+Message-ID: <bmjida116l8mlr50cmieu4hjn8khu6k25h@4ax.com>
+User-Agent: ForteAgent/7.20.32.1218
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Lines: 72
+X-Usenet-Provider: http://www.giganews.com
+X-Trace: sv3-SQvc4bBThUhs5LyLsjh1O7bsE7Tc30xIE9Yjdf1RWxgz4TXZ2purQQZB0PaucjwwedTf5ChSaMDdhok!/SEx42/YY/jiRcvW3PdpoRPy3FZj9OaTFY94AZR2Rg1p8iHpDyswvgEu2tylIiBTecZXe4A=
+X-Complaints-To: abuse@giganews.com
+X-DMCA-Notifications: http://www.giganews.com/info/dmca.html
+X-Abuse-and-DMCA-Info: Please be sure to forward a copy of ALL headers
+X-Abuse-and-DMCA-Info: Otherwise we will be unable to process your complaint properly
+X-Postfilter: 1.3.40
+Bytes: 4105
+X-Original-Bytes: 4012
+X-Received-Bytes: 4155
+X-Received-Body-CRC: 755964538
+
+Existing Users:
+
+This is a minor update and bug fix for RedEar's Font Renamer. All
+users of Font Renamer should install this update, particularly if you
+are running in a multi-monitor environment.
+
+This release, version 3.0.7, contains the following fixes:
+
+- Corrected the processing that keeps the main window fully visible so
+that it works properly in a multi-monitor environment
+
+- Corrected the processing of relative directory references on the
+command line
+
+- Added Windows 8.1 and Windows 10 to processing that identifies OS
+version for error log 
+
+- Changed the Exit button image on the tool bar
+
+I also added a comment to the Easter Egg, although to my knowledge
+nobody has ever found the egg.
+
+As always, please post suggestions and bug reports to
+alt.binaries.fonts.
+
+The latest version of RedEar's Font Renamer can also be found on the
+Extra tab at http://abfonts.freehostia.com/.
+
+
+New Users:
+
+Please read the "Getting Started" sections in the help file before
+using the program!
+
+RedEar's Font Renamer is a Windows utility program that consistently
+and automatically changes a font's external file name to match the
+font's internal name. Thus, for example, when looking at a renamed
+file in Windows Explorer, you will see "Chaparral MM.pfb" rather than
+"xtr_____.pfb", a much more comprehensible name. In other words, you
+get a meaningful file name, not a cryptic file name (which in most
+cases was created under the outdated 8.3 file naming conventions).
+
+Because of individual whims or variations in the ways older automated
+renamers handle characters that are invalid in a file name, many fonts
+in the public domain are circulating with different names. A font
+renamer allows you to bring consistency to your font collection and in
+the process identify possible duplicates. (Note that there do exist
+many font files that have the same internal name but are in fact
+different fonts with different glyphs. Often, however, files with the
+same internal name are in fact the same font.)
+
+Font Renamer robustly renames all types of font files and related
+files. It has extensive options to control the specific internal name
+that is used for renaming, to handle invalid characters, and to fine
+tune the renaming process. However, the default settings are
+recommended for most users.
+
+Font Renamer optionally checks that a font can actually be installed
+by your operating system and can flag fonts that cannot.Font Renamer
+does not change the contents of font files nor does it fix bad fonts.
+
+Note that you must have Microsoft .NET Framework 2.0 (the necessary
+run-time files) installed. See the "Before You Begin" section in the
+help file for information on obtaining the Framework if you have not
+yet installed it.
+
+If you are running a different operating system, you should look at
+FontRename, one of several Java-based utilities by Keith Fenske, also
+available on the Extra tab at http://abfonts.freehostia.com/.
+
+
+RedEar

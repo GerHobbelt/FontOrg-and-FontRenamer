@@ -1,0 +1,23 @@
+Path: not-for-mail
+From: Stylus <stylus@moonbasealphabet.comma>
+Newsgroups: alt.binaries.fonts
+Fontforge
+Date: Sun, 19 Jun 2011 22:32:21 -0400
+Message-ID: <r5ctv6lhi9d6167ltql40okaclktpm7rol@4ax.com>
+X-Newsreader: Forte Free Agent 3.3/32.846
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+NNTP-Posting-Host: news.stben.net
+Lines: 8
+X-Complaints-To: jln@stben.net
+Bytes: 741
+
+OK, this is one that I have not tried.
+Just a quick question of where to start for Win 7 64 bit.
+Here:
+http://openfontlibrary.org/wiki/How_to_install_FontForge
+or elsewhere?
+
+Thanks.
+--stylus

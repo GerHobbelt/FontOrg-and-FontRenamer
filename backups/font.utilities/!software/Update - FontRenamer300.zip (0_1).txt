@@ -1,0 +1,160 @@
+Path: not-for-mail
+NNTP-Posting-Date: Wed, 28 Apr 2010 17:54:12 -0500
+From: redear <redear@nowhere.com.invalid>
+Newsgroups: alt.binaries.fonts
+Update - FontRenamer300.zip (0/1)
+Date: Wed, 28 Apr 2010 17:54:13 -0500
+Message-ID: <uoeht5h9khjif3s753k7uhirnolkeo3j82@4ax.com>
+X-Newsreader: Forte Agent 4.2/32.1117
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Lines: 140
+X-Usenet-Provider: http://www.giganews.com
+X-Trace: sv3-WUpmo0Mp7OuO557iZ2bjbQ0tgHbADahh/I3IvNPcR6vyt9aLGxdKAziyDXeqhOpGfFs1P7Njt0KTCFa!+Sdg3osiU9EuGdgjUFaH+ky9pwWMU7VTAjjzjuSZwKnhcfgh5Auyvg5XX1xaxv2ACoQbaeQ=
+X-Complaints-To: abuse@giganews.com
+X-DMCA-Notifications: http://www.giganews.com/info/dmca.html
+X-Abuse-and-DMCA-Info: Please be sure to forward a copy of ALL headers
+X-Abuse-and-DMCA-Info: Otherwise we will be unable to process your complaint properly
+X-Postfilter: 1.3.40
+
+Existing users:
+
+I have labeled this a new major release (Version 3) because the
+outmoded drive, folder and file list box controls have been replaced
+with more modern and flexible folder tree and file list controls. This
+provides a few more options for the user that have been requested in
+the past but were not available in prior versions; it also fixes a
+long-standing but rare bug that could not be fixed with the older file
+list box. In addition, I have introduced a change, described in item
+6. below, affecting the renaming of bitmapped font files (FON files);
+this change breaks compatibility with previous versions.
+
+Despite the new major release number, users should not see much
+difference in the look, feel or performance of Font Renamer.
+
+Here is what is new in Version 3:
+
+1. The user interface has been updated with more modern and flexible
+folder tree and file list controls.
+
+2. You can now show and process hidden and/or system folders. This was
+not possible in Version 2. Note that processing hidden and/or system
+folders can be dangerous and these options are off by default. You can
+also show and process hidden and/or system files. Version 2 always
+processed hidden files but not system files. For compatibility with
+Version 2, processing hidden files is on by default and processing
+system files is off by default. These four options are accessed
+through the View and Show items on the main menu. Settings are
+remembered from run to run.
+
+3. The context (right click) menu in the folder tree contains a new
+menu item labeled Expand on Select. When on, clicking the label of a
+node in the folder tree will cause the node to be selected and will
+also expand it one level. (This is the way Windows Explorer operates.)
+When off, clicking the label of a node in the tree will select it; in
+order to expand the node you must click on the plus sign next to the
+label. This setting is off by default and is remembered from run to
+run.
+
+4. There are a few Chinese-Japanese-Korean files circulating with file
+names containing invalid Unicode characters. Two such files with names
+differing only by such an invalid character could cause the old file
+list control to fail. This bug should now be fixed.
+
+5. The vast majority of bitmapped font files (FON files) consist of
+one or more FNT files embedded in an old 16-bit New Executable (NE)
+format executable file with a ".fon" extension. However, it is also
+possible to embed the FNT files in a newer Portable Executable (PE)
+format file (although I have seen just two examples). Version 2 of
+Font Renamer treated these files as an unsupported file type. Since
+Windows and some font editing programs support them, I have added
+support for them in Version 3.
+
+6. BREAKING CHANGE. While adding support for bitmapped font files
+embedded in PE format files, I noticed that Fon tRenamer does not
+match the Windows Font Viewer naming convention for traditional FON
+files. For files with multiple face names (i.e., multiple FNT files),
+Version 2 always selected the last face name in the file; Windows Font
+Viewer selects the first face name. I have rarely broken backward
+compatibility, but in this case I have changed to the Windows
+convention. Although it affects a small percentage of files, users who
+do have non-system FON files are urged to rename them to be consistent
+with the new convention and avoid future false duplicates.
+
+Just a reminder: Windows gives system FON files (such as 8514FIX.FON,
+for example) a filename totally unrelated to the internal font names
+and which Font Renamer cannot reproduce. For this reason such files
+should not be renamed, even when they are in a folder other than the
+Fonts folder.
+
+7. You can now quickly increase or decrease the text font size by one
+point (within limits) with the keyboard shortcuts CTRL+SHIFT+> and
+CTRL+SHIFT+<. (These are the same shortcuts used in Microsoft Office.)
+
+8. The keyboard shortcuts for quickly changing the size of the window
+or moving the splitters have been changed. Increase or decrease the
+width or height of the main window by using the arrow keys with the
+CTRL key. Similarly, the arrow keys with the CTRL and SHIFT keys will
+move the vertical splitter (assuming the Font Name Info text box is
+showing) and the horizontal splitter.
+
+9. Version 2 allowed you to drag and drop a folder or file (either the
+icon or the name as a text string) to the folder list or file list;
+Font Renamer would then open the folder. Version 2 also allowed you to
+drag and drop text from the Font Name Info box to a drag and
+drop-aware application. Version 3 adds the ability to drag and drop a
+single file from the file list: dropping the file on a program icon
+will start the program and pass the file name to the program as a
+command line parameter; dropping the file on an Explorer window will
+copy the file.
+
+All users of earlier versions are urged to upgrade to this version and
+to review the Version History in the help file for a list of all
+changes. As always, please post suggestions and bug reports to
+alt.binaries.fonts.
+
+Thanks to al jones for hosting the current version of Font Renamer at
+http://fontorg.us/download.html.
+
+
+New Users:
+
+Please read the "Getting Started" sections in the help file before
+using the program!
+
+Font Renamer is a utility program that consistently and automatically
+changes a font's external file name to match the font's internal name.
+Thus, for example, when looking at a renamed file in Windows Explorer,
+you will see "Chaparral MM.pfb" rather than "xtr_____.pfb", a much
+more comprehensible name. In other words, you get a meaningful file
+name, not a cryptic file name (which in most cases was created under
+the outdated 8.3 file naming conventions).
+
+Because of individual whims or variations in the ways older automated
+renamers handle characters that are invalid in a file name, many fonts
+in the public domain are circulating with different names. A font
+renamer allows you to bring consistency to your font collection and in
+the process identify possible duplicates. (Note that there do exist
+many font files that have the same internal name but are in fact
+different fonts with different glyphs. Often, however, files with the
+same internal name are in fact the same font.)
+
+Font Renamer robustly renames all types of font files and related
+files. It has extensive options to control the specific internal name
+that is used for renaming, to handle invalid characters, and to fine
+tune the renaming process. The default settings are recommended for
+most users.
+
+Font Renamer optionally checks that a font can actually be installed
+by your operating system and can flag fonts that cannot.
+
+Font Renamer does not change the contents of font files nor does it
+fix bad fonts.
+
+Note that you must have Microsoft .NET Framework 2.0 (the necessary
+run-time files) installed. (See the "Before You Begin" section in the
+help file for information on obtaining the Framework if you have not
+yet installed it.)
+
+redear

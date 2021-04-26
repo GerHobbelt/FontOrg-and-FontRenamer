@@ -1,0 +1,28 @@
+Path: not-for-mail
+From: al@fontorg.us
+Newsgroups: alt.binaries.fonts
+Updated FontOrg Data Files - FontOrg 141219.zip (0/1)
+Message-ID: <tf299a1hjvosvssq61b19itqur0ru4gjbr@4ax.com>
+User-Agent: ForteAgent/8.00.32.1272
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Lines: 10
+X-Complaints-To: abuse(at)newshosting.com
+NNTP-Posting-Date: Fri, 19 Dec 2014 20:30:19 UTC
+Organization: Newshosting.com - Highest quality at a great price! www.newshosting.com
+Bytes: 986
+Date: Fri, 19 Dec 2014 14:30:17 -0600
+X-Received-Bytes: 962
+X-Received-Body-CRC: 2737893711
+
+Since someone was kind enough to send me a donation, I figured I'd
+return the favor and update the data files.
+
+If you're using FontOrg and send me your "\_unlknown\_unknown" folder,
+or decide to tip me a bit on PayPal  I'll continue to update the
+files.
+
+The program, which has *NOT* been update can be found at FontOrg.us
+
+//al

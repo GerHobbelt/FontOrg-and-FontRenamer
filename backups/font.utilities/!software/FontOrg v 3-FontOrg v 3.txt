@@ -1,0 +1,34 @@
+Path: not-for-mail
+From: BookShop@My.place
+Newsgroups: alt.binaries.fonts
+FontOrg v 3
+Message-ID: <du1ki99ovbuahcdhhcvqffuv48h7iherkp@4ax.com>
+User-Agent: ForteAgent/7.20.32.1218
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Lines: 15
+X-Complaints-To: abuse(at)newshosting.com
+NNTP-Posting-Date: Wed, 19 Mar 2014 21:16:31 UTC
+Organization: Newshosting.com - Highest quality at a great price! www.newshosting.com
+Bytes: 1343
+Date: Wed, 19 Mar 2014 16:16:28 -0500
+X-Received-Bytes: 1320
+X-Received-Body-CRC: 2521613645
+Xref: highwinds alt.binaries.fonts:389813
+
+Yes, contrary to my disclaimers I have done an update to FontOrg!  The
+changes have all been internal, I'm no longer using the registry to
+keep your options, the being stashed in a file in "$APPDATA" 
+
+This is a beta ... it seems as if all my releases are beta releases,
+sure would be nice to have a dependable "tester" again rather than
+having to dump a program that only *I* have tested out here.
+
+Any comments can be left in the blog at http://fontorg.us (from which
+you can also download the new version).
+If you use the program, when you find designers or foundries that I'm
+missing, please upload a copyof one of their files to me at al <at>
+fontorg <dot> us and I'll update the data files and reissue them.
+
+//al

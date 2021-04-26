@@ -1,0 +1,30 @@
+Path: not-for-mail
+From: AlJones <al@mywebhome.net>
+FontOrg v2 BETA
+Newsgroups: alt.binaries.fonts
+User-Agent: 40tude_Dialog/2.0.15.1
+MIME-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+Organization: FontOrg
+Message-ID: <17t2ckctp9vzm.1usfea68m3mf6.dlg@40tude.net>
+Lines: 14
+X-Complaints-To: abuse@easynews.com
+X-Complaints-Info: Please be sure to forward a copy of ALL headers otherwise we will be unable to process your complaint properly.
+Date: Sun, 31 May 2009 23:55:39 -0500
+Bytes: 1283
+
+FontOrg v2 BETA is available on my website at www.fontorg.us.  Type 1 and
+raster fonts are not currently supported, but I'd like some feedback on how
+this method works for you.
+
+I accept no responsibility if you use this on live files and lose
+everything (so far, I haven't ... but it is BETA test)
+
+There are several new sort orders and comes as a 
+Windows installer package (fontorg202.msi)
+
+PLease give me any feedback you think appropriate, either here or via email
+(not to this email addy!)
+
+//al

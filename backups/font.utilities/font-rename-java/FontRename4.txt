@@ -1,0 +1,306 @@
+#
+# FontRename4.txt (English) 2010-07-15
+#
+# Keith Fenske, http://www.psc-consulting.ca/fenske/
+#
+# This is the configuration data file for the FontRename4 Java
+# application.  The expected file name is "FontRename4.txt"
+# (without the quotes) in the current working directory, which
+# is usually the same folder as the program's *.class files.
+# See also the -d option on the program's command line.  If this
+# file is not found, then the program continues without printing
+# an error.
+#
+# You may edit this file to change the search order for font
+# names, and you may translate some characters in the resulting
+# file names.  This file should be in plain text or "ASCII"
+# format, or else it must be encoded in UTF-8 format if there
+# are any non-ASCII characters (higher than U+007F).
+#
+# This file contains character data from the Unicode Consortium;
+# please visit their web site at http://www.unicode.org/ for
+# more information.  Other than data obtained from the above
+# source, this file is copyright (c) 2009 by Keith Fenske and
+# released under the GNU General Public License (GPL), version 3
+# or later.
+#
+################################################################
+#
+# Name Table Search Order
+#
+# Internal font name tables are searched in the following order.
+# The first successful match is used to rename the file.  Four
+# decimal numbers are given on each "accept" line: platform ID,
+# encoding ID, language ID, and name ID.  Use -1 to mean "any"
+# for the encoding or language (not allowed with the platform or
+# name ID).  Please see the following web pages:
+#
+# http://www.microsoft.com/OpenType/OTSpec/name.htm
+# http://developer.apple.com/textfonts/TTRefMan/RM06/Chap6name.html
+#
+# Microsoft shows some IDs in hexadecimal, not decimal, and the
+# name ID is almost always 4.  Western European fonts often have
+# their name tables as "English" (whether they are truly English
+# or not), so it is generally not worthwhile to add entries for
+# French, German, Italian, Spanish, etc.  For language choices
+# below, you can enable a language by removing the "#" from in
+# front of the "accept" word.
+#
+#	plat	enco	lang	name
+#
+# ARA - Arabic:
+# accept  3	1	1025	4	# Windows Unicode Arabic
+# accept  3	0	1025	4	# Windows Symbol Arabic
+# accept  1	4	12	4	# Macintosh Arabic Arabic
+#
+# GRE - Greek:
+# accept  3	1	1032	4	# Windows Unicode Greek
+# accept  3	0	1032	4	# Windows Symbol Greek
+# accept  1	6	14	4	# Macintosh Greek Greek
+#
+# HEB - Hebrew:
+# accept  3	1	1037	4	# Windows Unicode Hebrew
+# accept  3	0	1037	4	# Windows Symbol Hebrew
+# accept  1	5	10	4	# Macintosh Hebrew Hebrew
+#
+# JPN - Japanese:
+# accept  3	1	1041	4	# Windows Unicode Japanese
+# accept  3	0	1041	4	# Windows Symbol Japanese
+# accept  3	2	1041	4	# Windows Japanese Shift-JIS (with language)
+# accept  3	2	0	4	# Windows Japanese Shift-JIS (no language)
+# accept  1	1	11	4	# Macintosh Shift-JIS Japanese
+#
+# KOR - Korean:
+# accept  3	1	1042	4	# Windows Unicode Korean
+# accept  3	0	1042	4	# Windows Symbol Korean
+# accept  3	5	1042	4	# Windows Korean Wansung (with language)
+# accept  3	5	0	4	# Windows Korean Wansung (no language)
+# accept  3	6	1042	4	# Windows Korean Johab (with language)
+# accept  3	6	0	4	# Windows Korean Johab (no language)
+# accept  1	3	23	4	# Macintosh Wansung Korean
+#
+# RUS - Russian:
+# accept  3	1	1049	4	# Windows Unicode Russian
+# accept  3	0	1049	4	# Windows Symbol Russian
+# accept  1	7	32	4	# Macintosh Cyrillic Russian
+#
+# THA - Thai:
+# accept  3	1	1054	4	# Windows Unicode Thai
+# accept  3	0	1054	4	# Windows Symbol Thai
+# accept  1	21	22	4	# Macintosh Thai Thai
+#
+# ZHS - Simplified Chinese:
+# accept  3	1	2052	4	# Windows Unicode S.Chinese
+# accept  3	0	2052	4	# Windows Symbol S.Chinese
+# accept  3	3	2052	4	# Windows S.Chinese GBK (with language)
+# accept  3	3	0	4	# Windows S.Chinese GBK (no language)
+# accept  1	25	33	4	# Macintosh GBK S.Chinese
+#
+# ZHT - Traditional Chinese:
+# accept  3	1	1028	4	# Windows Unicode T.Chinese
+# accept  3	0	1028	4	# Windows Symbol T.Chinese
+# accept  3	4	1028	4	# Windows T.Chinese Big5 (with language)
+# accept  3	4	0	4	# Windows T.Chinese Big5 (no language)
+# accept  1	2	19	4	# Macintosh Big5 T.Chinese
+#
+# Many fonts have non-standard naming tables, so you will always
+# find some fonts that don't match your name table entries.  See
+# the FontNames Java application to display all name tables for
+# a font, in all languages.  Most fonts have English names; it's
+# part of the official OpenType and TrueType standard:
+#
+#	plat	enco	lang	name
+accept	3	1	1033	4	US-ASCII	# strict Windows Unicode English
+accept	3	0	1033	4	US-ASCII	# strict Windows Symbol English
+accept	1	0	0	4	US-ASCII	# strict Macintosh Roman English
+accept	3	1	1033	4	windows-1252	# relaxed Windows Unicode English
+accept	3	0	1033	4	windows-1252	# relaxed Windows Symbol English
+accept	1	0	-1	4	US-ASCII	# Macintosh Roman (any) plain text
+accept	3	-1	-1	4	US-ASCII	# Windows (any) (any) plain text
+accept	1	-1	-1	4	US-ASCII	# Macintosh (any) (any) plain text
+accept  0	-1	-1	4	US-ASCII	# obsolete Apple Unicode plain text
+accept	3	-1	-1	1	US-ASCII	# Windows (any) font family name
+accept	1	-1	-1	1	US-ASCII	# Macintosh (any) font family name
+#
+# The entries above have a character set name after the four ID
+# numbers.  This is optional on all "accept" lines and prevents
+# an entry from being accepted if a name is incorrectly encoded,
+# which is unfortunately very common for "MacRoman English" or
+# "Windows English".  Please use only canonical Java character
+# set names, with the exact spelling as found on the following
+# web page:
+#
+# http://java.sun.com/j2se/1.5.0/docs/guide/intl/encoding.doc.html
+#
+# The program ignores platform IDs other than 0, 1, and 3, so
+# don't bother trying to use 2 (depreciated ISO) or 4 (custom).
+#
+# If this configuration file is not found, or if no name table
+# entries are defined, then the program will look for Windows
+# English and MacRoman English, in that order, because those are
+# the safe choices (US-ASCII character set only).
+#
+################################################################
+#
+# Character Conversion Table
+#
+# Once a font name has been found, some of the characters in the
+# that name may not be legal (or desirable) in a file name.  The
+# characters listed below on the left side of the equal sign (=)
+# are replaced by what is on the right side.
+#
+# The left side uses Unicode "U+" hex notation from U+0000 to
+# U+FFFF.  The right side is a quoted string with zero or more
+# Unicode characters (encoded in UTF-8 format).  The only
+# printable characters that can not be quoted with double quotes
+# (") are the quotes themselves (U+0022), which are illegal in
+# file names on Windows, and hence should be avoided on other
+# operating systems too.  There are no escape sequences for
+# special characters.
+#
+# Add whatever character conversions you want to this table.
+#
+convert U+0022 = "'"	# Quotation Mark
+convert U+002A = "-"	# Asterisk
+convert U+002F = "-"	# Solidus
+convert U+003A = "-"	# Colon
+convert U+003C = "("	# Less-Than Sign
+convert U+003E = ")"	# Greater-Than Sign
+convert U+003F = "!"	# Question Mark
+convert U+005C = "-"	# Reverse Solidus
+convert U+0060 = "'"	# Grave Accent
+convert U+007C = "!"	# Vertical Line
+convert U+00A0 = " "	# No-Break Space
+convert U+00A1 = "!"	# Inverted Exclamation Mark
+convert U+00A2 = "c"	# Cent Sign
+convert U+00A3 = "L"	# Pound Sign
+convert U+00A4 = "$"	# Currency Sign
+convert U+00A5 = "Y"	# Yen Sign
+convert U+00A6 = "!"	# Broken Bar
+convert U+00A7 = "S"	# Section Sign
+convert U+00A8 = "-"	# Diaeresis
+convert U+00A9 = "(c)"	# Copyright Sign
+convert U+00AA = "a"	# Feminine Ordinal Indicator
+convert U+00AB = "'"	# Left-Pointing Double Angle Quotation Mark
+convert U+00AC = "~"	# Not Sign
+convert U+00AD = "-"	# Soft Hyphen
+convert U+00AE = "(R)"	# Registered Sign
+convert U+00AF = "-"	# Macron
+convert U+00B0 = "o"	# Degree Sign
+convert U+00B1 = "+-"	# Plus-Minus Sign
+convert U+00B2 = "2"	# Superscript Two
+convert U+00B3 = "3"	# Superscript Three
+convert U+00B4 = "'"	# Acute Accent
+convert U+00B5 = "u"	# Micro Sign
+convert U+00B6 = "P"	# Pilcrow Sign
+convert U+00B7 = "."	# Middle Dot
+convert U+00B8 = ","	# Cedilla
+convert U+00B9 = "1"	# Superscript One
+convert U+00BA = "o"	# Masculine Ordinal Indicator
+convert U+00BB = "'"	# Right-Pointing Double Angle Quotation Mark
+convert U+00BC = "14"	# Vulgar Fraction One Quarter
+convert U+00BD = "12"	# Vulgar Fraction One Half
+convert U+00BE = "34"	# Vulgar Fraction Three Quarters
+convert U+00BF = "!"	# Inverted Question Mark
+convert U+00C0 = "A"	# Latin Capital Letter A With Grave
+convert U+00C1 = "A"	# Latin Capital Letter A With Acute
+convert U+00C2 = "A"	# Latin Capital Letter A With Circumflex
+convert U+00C3 = "A"	# Latin Capital Letter A With Tilde
+convert U+00C4 = "A"	# Latin Capital Letter A With Diaeresis
+convert U+00C5 = "A"	# Latin Capital Letter A With Ring Above
+convert U+00C6 = "AE"	# Latin Capital Letter Ae
+convert U+00C7 = "C"	# Latin Capital Letter C With Cedilla
+convert U+00C8 = "E"	# Latin Capital Letter E With Grave
+convert U+00C9 = "E"	# Latin Capital Letter E With Acute
+convert U+00CA = "E"	# Latin Capital Letter E With Circumflex
+convert U+00CB = "E"	# Latin Capital Letter E With Diaeresis
+convert U+00CC = "I"	# Latin Capital Letter I With Grave
+convert U+00CD = "I"	# Latin Capital Letter I With Acute
+convert U+00CE = "I"	# Latin Capital Letter I With Circumflex
+convert U+00CF = "I"	# Latin Capital Letter I With Diaeresis
+convert U+00D0 = "D"	# Latin Capital Letter Eth
+convert U+00D1 = "N"	# Latin Capital Letter N With Tilde
+convert U+00D2 = "O"	# Latin Capital Letter O With Grave
+convert U+00D3 = "O"	# Latin Capital Letter O With Acute
+convert U+00D4 = "O"	# Latin Capital Letter O With Circumflex
+convert U+00D5 = "O"	# Latin Capital Letter O With Tilde
+convert U+00D6 = "O"	# Latin Capital Letter O With Diaeresis
+convert U+00D7 = "x"	# Multiplication Sign
+convert U+00D8 = "O"	# Latin Capital Letter O With Stroke
+convert U+00D9 = "U"	# Latin Capital Letter U With Grave
+convert U+00DA = "U"	# Latin Capital Letter U With Acute
+convert U+00DB = "U"	# Latin Capital Letter U With Circumflex
+convert U+00DC = "U"	# Latin Capital Letter U With Diaeresis
+convert U+00DD = "Y"	# Latin Capital Letter Y With Acute
+convert U+00DE = "P"	# Latin Capital Letter Thorn
+convert U+00DF = "ss"	# Latin Small Letter Sharp S
+convert U+00E0 = "a"	# Latin Small Letter A With Grave
+convert U+00E1 = "a"	# Latin Small Letter A With Acute
+convert U+00E2 = "a"	# Latin Small Letter A With Circumflex
+convert U+00E3 = "a"	# Latin Small Letter A With Tilde
+convert U+00E4 = "a"	# Latin Small Letter A With Diaeresis
+convert U+00E5 = "a"	# Latin Small Letter A With Ring Above
+convert U+00E6 = "ae"	# Latin Small Letter Ae
+convert U+00E7 = "c"	# Latin Small Letter C With Cedilla
+convert U+00E8 = "e"	# Latin Small Letter E With Grave
+convert U+00E9 = "e"	# Latin Small Letter E With Acute
+convert U+00EA = "e"	# Latin Small Letter E With Circumflex
+convert U+00EB = "e"	# Latin Small Letter E With Diaeresis
+convert U+00EC = "i"	# Latin Small Letter I With Grave
+convert U+00ED = "i"	# Latin Small Letter I With Acute
+convert U+00EE = "i"	# Latin Small Letter I With Circumflex
+convert U+00EF = "i"	# Latin Small Letter I With Diaeresis
+convert U+00F0 = "d"	# Latin Small Letter Eth
+convert U+00F1 = "n"	# Latin Small Letter N With Tilde
+convert U+00F2 = "o"	# Latin Small Letter O With Grave
+convert U+00F3 = "o"	# Latin Small Letter O With Acute
+convert U+00F4 = "o"	# Latin Small Letter O With Circumflex
+convert U+00F5 = "o"	# Latin Small Letter O With Tilde
+convert U+00F6 = "o"	# Latin Small Letter O With Diaeresis
+convert U+00F7 = "+"	# Division Sign
+convert U+00F8 = "o"	# Latin Small Letter O With Stroke
+convert U+00F9 = "u"	# Latin Small Letter U With Grave
+convert U+00FA = "u"	# Latin Small Letter U With Acute
+convert U+00FB = "u"	# Latin Small Letter U With Circumflex
+convert U+00FC = "u"	# Latin Small Letter U With Diaeresis
+convert U+00FD = "y"	# Latin Small Letter Y With Acute
+convert U+00FE = "p"	# Latin Small Letter Thorn
+convert U+00FF = "y"	# Latin Small Letter Y With Diaeresis
+convert U+0152 = "OE"	# Latin Capital Ligature Oe
+convert U+0153 = "oe"	# Latin Small Ligature Oe
+convert U+0160 = "S"	# Latin Capital Letter S With Caron
+convert U+0161 = "s"	# Latin Small Letter S With Caron
+convert U+0178 = "Y"	# Latin Capital Letter Y With Diaeresis
+convert U+017D = "Z"	# Latin Capital Letter Z With Caron
+convert U+017E = "z"	# Latin Small Letter Z With Caron
+convert U+0192 = "f"	# Latin Small Letter F With Hook
+convert U+02C6 = "^"	# Modifier Letter Circumflex Accent
+convert U+02DC = "~"	# Small Tilde
+convert U+2013 = "-"	# En Dash
+convert U+2014 = "-"	# Em Dash
+convert U+2018 = "'"	# Left Single Quotation Mark
+convert U+2019 = "'"	# Right Single Quotation Mark
+convert U+201A = "'"	# Single Low-9 Quotation Mark
+convert U+201C = "'"	# Left Double Quotation Mark
+convert U+201D = "'"	# Right Double Quotation Mark
+convert U+201E = "'"	# Double Low-9 Quotation Mark
+convert U+2020 = "+"	# Dagger
+convert U+2021 = "+"	# Double Dagger
+convert U+2022 = "."	# Bullet
+convert U+2026 = "..."	# Horizontal Ellipsis
+convert U+2030 = "%"	# Per Mille Sign
+convert U+2039 = "'"	# Single Left-Pointing Angle Quotation Mark
+convert U+203A = "'"	# Single Right-Pointing Angle Quotation Mark
+convert U+20AC = "E"	# Euro Sign
+convert U+2122 = "TM"	# Trade Mark Sign
+#
+# There are no default conversions if this configuration file is
+# not found.  Characters that are illegal in file names, but not
+# converted above, will be replaced by an arbitrary substitution
+# character chosen by the program.  See also the "Character Map"
+# application.
+#
+################################################################
+#
+# end of FontRename4.txt
+#

@@ -1,0 +1,23 @@
+X-Received: by 2002:ae9:f205:: with SMTP id m5mr62369357qkg.152.1577850319383;
+        Tue, 31 Dec 2019 19:45:19 -0800 (PST)
+X-Received: by 2002:aca:ab0e:: with SMTP id u14mr1795614oie.1.1577850318946;
+ Tue, 31 Dec 2019 19:45:18 -0800 (PST)
+Path: news.tweak-news.eu!spooler.pl1!82.197.223.108.MISMATCH!feeder.cambriumusenet.nl!feed.tweaknews.nl!path-stripped
+Newsgroups: comp.fonts
+Date: Tue, 31 Dec 2019 19:45:18 -0800 (PST)
+In-Reply-To: <Pine.SGI.3.91.950403212251.14049A-100000-100000@artemis.wake.tec.nc.us>#1/1>
+Complaints-To: groups-abuse@google.com
+Injection-Info: google-groups.googlegroups.com; posting-host=184.1.71.29; posting-account=ffIx4AkAAACOIprFECPd4sJFXavkWCi_
+NNTP-Posting-Host: 184.1.71.29
+References: <3ln59r$em1@news.informix.com> <Pine.SGI.3.91.950403212251.14049A-100000-100000@artemis.wake.tec.nc.us>#1/1>
+User-Agent: G2/1.0
+MIME-Version: 1.0
+Message-ID: <42838846-45e4-4091-9451-70947bcaaf7f@googlegroups.com>
+fonts that look like an old IBM Selectric typewriter
+From: southernphoneman6@gmail.com
+Injection-Date: Wed, 01 Jan 2020 03:45:19 +0000
+Content-Type: text/plain; charset="UTF-8"
+X-Received-Bytes: 1367
+X-Received-Body-CRC: 3595217085
+
+Just get another pen

@@ -1,0 +1,30 @@
+Path: not-for-mail
+From: al@fontorg.us
+Newsgroups: alt.binaries.fonts
+FontOrg 2.0.2.102
+Message-ID: <sh3rk7pq1thcm9b5a4t9bta50dl30j1acl@4ax.com>
+X-Newsreader: Forte Agent 6.00/32.1186
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Lines: 14
+X-Complaints-To: abuse@easynews.com
+Organization: EasyNews, UseNet made Easy!
+X-Complaints-Info: Please be sure to forward a copy of ALL headers otherwise we will be unable to process your complaint properly.
+Date: Tue, 28 Feb 2012 20:32:59 -0600
+X-Received-Bytes: 1545
+
+I've added a "feature" to FontOrg ... rather than moving / copying the
+files I've given the option to create shortcuts to them.  FontOrg is
+available at http://FontOrg.us/forum
+Assuming that you've run FontOrg and distributed your files into the
+order that you normally like to see them, you can now (from the tools
+-> options menu) select "Create Shortcuts" to sort them differently
+without any impact on your original files.
+Let's say that you want to see how they'd look if you sorted them by
+Panose Family ( Display, Script, Decorative, Pictorial ) then you need
+to simply select "Pan Family" from the sort by drop down - and wait ((
+sorry, it takes as much time to create the shortcuts as it does to do
+the original sort )).
+There are several new, and to me interesting, sort options available.
+Others can be implemented on request.

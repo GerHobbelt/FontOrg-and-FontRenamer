@@ -1,0 +1,46 @@
+Path: not-for-mail
+From: AlJones <al@mywebhome.net>
+The Future of FontOrg
+Newsgroups: alt.binaries.fonts
+User-Agent: 40tude_Dialog/2.0.15.84
+MIME-Version: 1.0
+Content-Type: text/plain; charset="iso-8859-7"
+Content-Transfer-Encoding: 8bit
+Organization: FontOrg
+Message-ID: <1luzq112zmkvu.1paiyyuv7qowe.dlg@40tude.net>
+Lines: 30
+X-Complaints-To: abuse@easynews.com
+X-Complaints-Info: Please be sure to forward a copy of ALL headers otherwise we will be unable to process your complaint properly.
+Date: Fri, 25 Dec 2009 13:59:00 -0600
+Bytes: 2648
+
+I think it's come time to put FontOrg to bed.  I think I've misproven the
+statement that there is no way to automatically organize a font collection,
+in fact, I think I've done a pretty decent job of it.
+The problem is, that doing it by myself it is no longer an enjoyable task,
+it's become a chore  (as it stands now, a real PITA).  Maintaining the
+foundries and designers files has become a full time (full time after work)
+job; and with the recent dump that red dragon did  on Rapidshare, I see
+that even that has some bad entries.
+When Mr McNasty was around, there was a continual interchange 'tween us
+(and others) which made the task enjoyable.  His constant desire for change
+drove me to try to effect his needs.  He also often provided me with
+updates for the files so that I could spend my effort on the program.
+I see that a couple of the commercial enterprises have attempted to
+implement something similar, though mostly based on PANOSE information -
+which isn't so bad as I'd have thought - so there probably will be
+commercial alternatives "down the pike".
+I have never been so proud of my code that I would not have welcomed
+someone elses alternative.  One programmer said that he had thought of
+doing something like it, but didn't.  And I see nothing in the works from
+anyone else.
+If someone - anyone - wants to submit corrections / additions to the files,
+please feel free - don't send me the entire file - I won¢t take the time to
+parse it, send me your desired changes and I'll update them as I have time
+available.  On that note, I will keep FontOrg.us on-line for the
+foreseeable future to distribute RedEar's FontRenamer and the changes to
+the FO files.
+If anyone wants to take up the torch, feel free to contact me at aljones
+-at- fontorg -dot- us and we can discuss this mess of spaghetti code I call
+a program.
+//al

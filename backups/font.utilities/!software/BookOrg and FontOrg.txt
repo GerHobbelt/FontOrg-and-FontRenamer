@@ -1,0 +1,35 @@
+Path: not-for-mail
+From: BookShop@My.place
+Newsgroups: alt.binaries.fonts
+BookOrg and FontOrg
+Message-ID: <cc64i9dqcl7qmvl6bh5s2423a0dgb4fk0f@4ax.com>
+User-Agent: ForteAgent/7.20.32.1218
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Lines: 17
+X-Complaints-To: abuse(at)newshosting.com
+NNTP-Posting-Date: Thu, 13 Mar 2014 20:41:40 UTC
+Organization: Newshosting.com - Highest quality at a great price! www.newshosting.com
+Bytes: 1330
+Date: Thu, 13 Mar 2014 15:48:27 -0500
+X-Received-Bytes: 1307
+X-Received-Body-CRC: 3344375139
+
+BookOrg and FontOrg
+
+BookOrg is available on the FontOrg website - http://fontorg.us. There
+is a blog there - which is where the files are located.
+
+FontOrg friends - I've brought the FontOrg website back up so I you
+want to get a copy, it's there as well as RedEars last version of
+FontRenamer (v2.04)
+
+Any comments, suggestions and of course assistance is appreciated.
+
+I'm aware that adbloockplus (and other add blockers?) has a problem
+with the blog.  If you see a note that you're seeing "this" rather
+than the blog, you'll have to disable your addblocker for a while.
+(found out the hard way ... couldn't see the blogs while I was working
+on the web site - damn near drove me bonkers!)
+//al

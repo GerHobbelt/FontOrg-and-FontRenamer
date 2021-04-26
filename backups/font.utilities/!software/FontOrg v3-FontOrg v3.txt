@@ -1,0 +1,31 @@
+Path: not-for-mail
+From: Al Jones <alfredmjones@xhotmail.com>
+Newsgroups: alt.binaries.fonts
+FontOrg v3
+Message-ID: <10tbgah8u1v8g5kth5icgo6hhp4oaajqrr@4ax.com>
+User-Agent: ForteAgent/8.00.32.1272
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Lines: 13
+X-Complaints-To: abuse(at)newshosting.com
+NNTP-Posting-Date: Sun, 15 Mar 2015 21:09:53 UTC
+Organization: Newshosting.com - Highest quality at a great price! www.newshosting.com
+Bytes: 1201
+Date: Sun, 15 Mar 2015 16:09:51 -0500
+X-Received-Body-CRC: 3593181288
+X-Received-Bytes: 1251
+
+I'm in the process of preparing a new release of FontOrg (if you're
+unfamiliar with it, visit FontOrg.us).
+I've added about 100 new Designers and about as many new Foundries.
+
+If you'd like an update, please send me your "_unknown\_unknown"
+folder and I'll make sure to get as many of your unknowns identified
+as I can.  You can fix my minor abfuscation in my email and use that,
+or upload them here to the attenion of AlJones.
+
+If you're using the program and have comments / suggestions, please
+feel free to give me any comments you have.  Here, please.
+
+//al

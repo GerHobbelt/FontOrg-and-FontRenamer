@@ -1,0 +1,99 @@
+Path: not-for-mail
+NNTP-Posting-Date: Thu, 15 Sep 2011 21:14:22 -0500
+From: redear <redear@nowhere.com.invalid>
+Newsgroups: alt.binaries.fonts
+RedEar's Font Renamer Update - FontRenamer303.zip (0/1)
+Date: Thu, 15 Sep 2011 21:14:23 -0500
+Message-ID: <74c577h223m4hujrvsunsj7ms9qsdli0eu@4ax.com>
+X-Newsreader: Forte Agent 4.2/32.1117
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Lines: 77
+X-Usenet-Provider: http://www.giganews.com
+X-Trace: sv3-x88m6yVnfiHmic0JzG8wdf74xyiwR3rbDh/YmPAcmdIDf7OP0LvhWjrMBW3yXV6h2yXRtrANbBXIe6J!EZ5F/bgzPjTK/GaFjsXopDI4/DGggVAQ6CxUacLriylytyzm7q8pxrRbhBZ/j1IOA2QSgqk=
+X-Complaints-To: abuse@giganews.com
+X-DMCA-Notifications: http://www.giganews.com/info/dmca.html
+X-Abuse-and-DMCA-Info: Please be sure to forward a copy of ALL headers
+X-Abuse-and-DMCA-Info: Otherwise we will be unable to process your complaint properly
+X-Postfilter: 1.3.40
+Bytes: 4244
+X-Original-Bytes: 4183
+
+Existing Users:
+
+This release of RedEar's Font Renamer is an optional update for
+existing users. It contains the following minor fixes and
+enhancements:
+
+- Fixed the context menu in the Font Name Info panel for Type 1 files
+to disable the redundant View menu item for the currently displayed
+file.
+
+- Changed the behavior of double clicking or selecting and pressing
+the Enter key on a file name when a modifier key is also pressed: the
+Shift key shows the font sample and the Alt key displays the file
+properties. This is now similar to the behavior of Windows Explorer.
+
+- Corrected the list of "Related documentation files" in the Options
+Dialog to include "*.cfg". The list is now consistent with the actual
+processing.
+
+- Changed headings in log file and cross-reference file to read
+"RedEar's Font Renamer".
+
+- Updated the Help file.
+
+As always, please post suggestions and bug reports to
+alt.binaries.fonts.
+
+The latest version of RedEar's Font Renamer can also be found on the
+Extra tab at http://abfonts.freehostia.com/.
+
+
+New Users:
+
+Please read the "Getting Started" sections in the help file before
+using the program!
+
+RedEar's Font Renamer is a Windows utility program that consistently
+and automatically changes a font's external file name to match the
+font's internal  name. Thus, for example, when looking at a renamed
+file in Windows Explorer, you will see "Chaparral MM.pfb" rather than
+"xtr_____.pfb",  a much more comprehensible name. In other words, you
+get a meaningful file name, not a cryptic file name (which in most
+cases was created  under the outdated 8.3 file naming conventions).
+
+Because of individual whims or variations in the ways older automated
+renamers handle characters that are invalid in a file name, many fonts
+in the public domain are circulating with different names. A font
+renamer allows you to bring consistency to your font collection and in
+the process identify possible duplicates. (Note that there do exist
+many font files that have the same internal name but are in fact
+different fonts with different glyphs. Often, however, files with the
+same internal name are in fact the same font.)
+
+Font Renamer robustly renames all types of font files and related
+files. It has extensive options to control the specific internal name
+that is used for renaming, to handle invalid characters, and to fine
+tune the renaming process. However, the default settings are
+recommended for most users.
+
+Font Renamer optionally checks that a font can actually be installed
+by your operating system and can flag fonts that cannot.
+
+Font Renamer does not change the contents of font files nor does it
+fix bad fonts.
+
+Note that you must have Microsoft .NET Framework 2.0 (the necessary
+run-time files) installed. See the "Before You Begin" section in the
+help file for information on obtaining the Framework if you have not
+yet installed it.
+
+If you are running a different operating system, you should look at
+FontRename, one of several Java-based utilities by Keith Fenske, also
+available on the Extra tab at http://abfonts.freehostia.com/ (as well
+as other sites).
+
+
+RedEar

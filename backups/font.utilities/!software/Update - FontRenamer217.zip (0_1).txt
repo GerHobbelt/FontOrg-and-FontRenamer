@@ -1,0 +1,92 @@
+Path: not-for-mail
+NNTP-Posting-Date: Tue, 03 Mar 2009 15:01:04 -0600
+From: redear <redear@nowhere.com.invalid>
+Newsgroups: alt.binaries.fonts
+Update - FontRenamer217.zip (0/1)
+Date: Tue, 03 Mar 2009 15:01:03 -0600
+Message-ID: <6f6rq412kldafson0edvn96rupahk3v14v@4ax.com>
+X-Newsreader: Forte Agent 4.2/32.1117
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Lines: 71
+X-Usenet-Provider: http://www.giganews.com
+X-Trace: sv3-3aQxUnoU9VfDEfUE/aG/LxZyQXLmvIHwqhS+CnDwpZyZRQ9fy92kM0ioWq8GhO682SJg0ZMndiOifC2!8FcUkVZ8ZX83lRDLYM/gOwvx49Oeg7ALZinQDGrNlMM/uIKajDe4ves9japjsP4a3pxPm2Q=
+X-Complaints-To: abuse@giganews.com
+X-DMCA-Notifications: http://www.giganews.com/info/dmca.html
+X-Abuse-and-DMCA-Info: Please be sure to forward a copy of ALL headers
+X-Abuse-and-DMCA-Info: Otherwise we will be unable to process your complaint properly
+X-Postfilter: 1.3.39
+Bytes: 3902
+
+Existing Users:
+
+This is the periodic release of a new version of Font Renamer. It
+contains the following minor updates and bug fixes:
+
+- Added refresh of file list before validation action to be consistent
+with refresh before renaming actions
+
+- Fixed a bug that let certain corrupt Type 1 files avoid proper
+processing
+
+- Added code to identify and flag certain improperly encoded Chinese
+font files
+
+- Fixed a bug converting large big-endian unsigned 16-bit integers to
+little-endian 32-bit integers
+
+All users are urged to upgrade to this version and to review the
+Version History in the help file for a list of all changes. As always,
+please post suggestions and bug reports to alt.binaries.fonts.
+
+Thanks to al jones for making both the latest version and the last
+version not requiring Microsoft Framework 2.0 available from his Web
+site, http://fontorg.us.
+
+New Users:
+
+Please read the "Getting Started" sections in the help file before
+using the program!
+
+FontRenamer is a utility program that consistently and automatically
+changes a font's external file name to match the font's internal name.
+Thus, for example, when looking at a renamed file in Windows Explorer,
+you will see "Chaparral MM.pfb" rather than "xtr_____.pfb", a much
+more comprehensible name. In other words, you get a meaningful file
+name, not a cryptic file name (which in most cases was created under
+the outdated 8.3 file naming conventions).
+
+Because of individual whims or variations in the ways older automated
+renamers handle characters that are invalid in a file name, many fonts
+in the public domain are circulating with different names. A font
+renamer allows you to bring consistency to your font collection and in
+the process identify possible duplicates. (Note that there do exist
+many font files that have the same internal name but are in fact
+different fonts with different glyphs. Often, however, files with the
+same internal name are in fact the same font.)
+
+FontRenamer robustly renames all types of font files and related
+files. It has extensive options to control the specific internal name
+that is used for renaming, to handle invalid characters, and to fine
+tune the renaming process. The default settings will be suitable for
+most users, although Windows 98 and Windows ME users may choose to use
+the ANSI rather than the Unicode compatibility option.
+
+Font Renamer optionally checks that a font can actually be installed
+by your operating system and can flag fonts that cannot.
+
+Font Renamer does not change the contents of font files nor does it
+fix bad fonts.
+
+Note that you must have Microsoft .NET Framework 2.0 (the necessary
+run-time files) installed. (See the "Before You Begin" section in the
+help file for information on obtaining the Framework if you have not
+yet installed it.)
+
+
+
+redear
+
+
+

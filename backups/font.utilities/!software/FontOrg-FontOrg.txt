@@ -1,0 +1,22 @@
+Path: not-for-mail
+From: Al Jones <me@myhome.invalid>
+FontOrg
+Newsgroups: alt.binaries.fonts
+User-Agent: 40tude_Dialog/2.0.15.1
+MIME-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+Message-ID: <1qxujxmiz22fe$.1nxlsqqdo0xiy.dlg@40tude.net>
+Lines: 7
+X-Complaints-To: abuse@easynews.com
+Organization: EasyNews, UseNet made Easy!
+X-Complaints-Info: Please be sure to forward a copy of ALL headers otherwise we will be unable to process your complaint properly.
+Date: Sat, 30 Jul 2011 21:50:27 -0500
+
+I see that I haven't put up anything about FontOrg recently but wondeer how
+many of you might be using my program and would be interested in an update
+to the data files?
+In other words, is it worth my while to continue to update them or not?
+If you're interested FontOrg is available on my website at FontOrg.us along
+with RedEars Fontrenamer.
+//al

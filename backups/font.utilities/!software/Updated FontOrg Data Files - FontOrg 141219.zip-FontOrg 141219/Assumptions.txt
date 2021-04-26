@@ -1,0 +1,71 @@
+# Copyright Notice:  Al Jones 2005 - 2015	
+# License: This file in its original form may be distributed freely.		
+# This file may be modified for personal use only; any modified version		
+# of this file may not be distributed or published by any means.		
+#		
+# The contents of this file are yours to do with what you wish.  If you choose to use it the structure is as follows:		
+# Column 1: the text to look for in the FILE NAME - it is case and white space sensitive		
+# this is a standard regular expression - if you don't know what that is look it up"		
+# (refer to: http://msdn2.microsoft.com/en-us/library/swf8kaxw.aspx) or don't use this feature.		
+# Column 2: the foundry you wish to associate with the item in column 1		
+# Column 3: the designer you want to associate with the item in column 1		
+#		
+# For simplicity - use double quotes for missing items"		
+#		
+#  Text	Foundry	Designer
+
+#CK*	PrimeMedia and others	
+*ADF*	Arkandis Digital Foundry	Hirwen Harendal
+* (BRK)	Aenigma Fonts	
+* BRK	Aenigma Fonts	
+* -BRK-	Aenigma Fonts	
+* BT *	Bitstream	
+* CG*	CompuGraphic Corporation	
+* DNA	Sign DNA	
+*CgATT*	CompuGraphic Corporation	
+*PG		Paul Grosse
+-JS *	JS Technology	
+-DB *	JS Technology	
+.[vV]n*	TCVN-5712	
+[Rr]yp[ _] *	Skeldale House Treasures	Robyn Phillips
+2Peas *	Two Peas	
+2rebels*	2 Rebels	
+2547_*	Thai Fonts	
+2548_*	Thai Fonts	
+4YEO*	4YEO	
+AC?[ -]*	Apropos Creations	
+AEZ *	Adult Ramblings	Anastacia E Zittel
+AF *	Abstract Fonts	
+AG-*	Appligraph Ltd		
+AMS *	American Mathematical Society	
+Asia*	SysTech Corporation	D.I.T
+Bera *		Malte Rosenau
+C[Gg]*	CompuGraphic Corporation	
+CAC *	American Greetings Corporation	
+CBX-	ChatterBox	
+CK *	Creating Keepsakes	
+CM*	American Mathematical Society	
+CN-*		Chan-Nguyen
+D3 *	Digital Dream Design	
+DD *	Denenchofu Design	
+DJ *	DJ Inkers	Dianne J Hook
+DJB *	Sweet Shoppe Designs	Darcy Baldwin
+DK *	Hanoded Fonts	David Kerkhoff
+FG *	Font Garden	
+FS_*	Future Soft Egypt	
+FZ *	Fantazia Fonts	
+h2*	HanYang Systems Inc	
+HFF *	Have Fun with Fonts	Have Fun with Fonts	
+HJ[a-z][a-z][a-z][a-z] *	Next Vision (Korean)	
+HY*	HanYang Systems Inc	
+JLR *	DingBrats	
+LHF*	LetterHead Fonts	
+LMS *	London Stokes	
+MCS *	Glyph Systems	
+Nise*	Act Select	
+NTU*	National Taiwan University CS&IE	Yaw Jen Lin (LYR)
+P22*	P22 Type Foundry	
+PT *	ParaType	
+POTH *	Data Becker	
+RK *	kainhofer.com	Reinhold Kainhofer
+WC *	WC Fonts	Christophe Foray
