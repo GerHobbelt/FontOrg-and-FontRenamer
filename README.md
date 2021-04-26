@@ -1,6 +1,6 @@
 # FontOrg and FontRenamer
 
-copy of **FontOrg** (Al Jones) and **FontRenamer** (Philip M. Engel) font tools as posted in yonder days on NNTP *alt.binaries.fonts*.
+copy of **FontOrg** (Al Jones, a.k.a. *`//al`*) and **FontRenamer** (Philip M. Engel, a.k.a. *RedEar*) font tools as posted in yonder days on NNTP *alt.binaries.fonts*.
 
 ---
 
