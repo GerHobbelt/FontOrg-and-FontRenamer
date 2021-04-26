@@ -10,6 +10,15 @@ copy of **FontOrg** (Al Jones, a.k.a. *`//al`*) and **FontRenamer** (Philip M. E
 
 ---
 
+## How do I grab this?
+
+Two ways to achive the same:
+
+1. click the green **Code** button above, you'll see a dropdown. Pick "Download ZIP"
+2. click on darker "Releases" title (middle-right on the page; when you hover over it with your mousee, that black title will turn blue to indicate that's a link!). A new page shows up. There you can download **everything** in this repo as (zip) or (tar.gz) archive file by clicking on the links below the **the-whole-shabang** tag.
+
+
+
 ## What is this?
 
 These tools were posted regularly on alt.bin.fonts by the authors and are very useful tools to organize your TTF/OTF/Type-1 fonts.
