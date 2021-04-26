@@ -1,6 +1,11 @@
 # FontOrg and FontRenamer
 
-copy of FontOrg (Al Jones) and FontRenamer (Philip M. Engel) font tools as posted in yonder days on NNTP alt.binaries.fonts
+copy of **FontOrg** (Al Jones) and **FontRenamer** (Philip M. Engel) font tools as posted in yonder days on NNTP alt.binaries.fonts
+
+![image](https://user-images.githubusercontent.com/402462/116137857-656f4280-a6d4-11eb-8b09-4f30ec037868.png)
+![image](https://user-images.githubusercontent.com/402462/116137975-8a63b580-a6d4-11eb-84db-8a9704826894.png)
+![image](https://user-images.githubusercontent.com/402462/116138001-93ed1d80-a6d4-11eb-8d27-2d9e315396a1.png)
+
 
 ## What is this?
 
@@ -21,5 +26,9 @@ FontOrg v3 still runs fine on Windows 10/64 over here. YMMV.
 
 FontRenamer v2 seems slightly more finicky r4e stability on Windows 10/64, even while it's produced in .NET 2.0, which should still be okay 🤔   Anyway, here again: YMMV.
 
+## Notes
+
+- the Designer and other text files provided with this instance of FontOrg is my (*probably patched*) copy from 2015 AD.
+- Older versions are stored in the `backups` directory. Try them and see which works if the latest if giving you trouble.
 
 
